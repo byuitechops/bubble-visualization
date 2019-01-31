@@ -1,0 +1,26 @@
+{
+  "name": "bubble-visualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byuitechops/bubble-visualization.git"
+  },
+  "author": "Emma Fisher, Sam McGrath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byuitechops/bubble-visualization/issues"
+  },
+  "homepage": "https://github.com/byuitechops/bubble-visualization#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "canvas-api-wrapper": "^3.3.5",
+    "d3plus": "^1.9.8",
+    "util": "^0.11.1"
+  }
+}
