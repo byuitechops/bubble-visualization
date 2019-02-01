@@ -26,8 +26,8 @@ async function retrieveModuleItems(courseId, moduleId) {
 }
 
 function matchModules(modules, moduleItem) {
-    // compare module_id of moduleItem to id of moduleList
-    // return position of moduleList if line 30 is true
+    /* compare module_id of moduleItem to id of moduleList,
+    return position of moduleList if line 30 is true*/
     let pos = 0;
 
     modules.forEach(module => {
@@ -42,27 +42,22 @@ function matchModules(modules, moduleItem) {
 (async (courseId) => {
     let courseModules = [];
     let modules = await retrieveModules(courseId);
-    // modules = modules.filter(module => weeks.includes(module.name));
 
-    //iterate through all course modules asynchronously and retrieve each item
+    /* iterate through all course modules asynchronously and retrieve each item */
     await asyncEach(modules, async module => {
         courseModules.push(await retrieveModuleItems(courseId, module.id));
     });
 
-    // let gradedItems = [];
+    let allItems = [];
 
-    // //iterate through all module items and add ones with point value to the array gradedItems
-    // courseModules.forEach(item => containsCourseDetails(item));
+    /* iterate through all module items and add ones with point value to the array gradedItems */
+    courseModules.forEach(item => getAllItems(item));
 
-    // function containsCourseDetails(items) {
-    //     items.forEach(item => {
-    //         if (item.content_details.points_possible) {
-    //         gradedItems.push(item)
-    //         }
-    //     });
-    // }
-
-    // console.log(gradedItems);
+    function getAllItems(items) {
+        items.forEach(item => {
+            allItems.push(item)
+        });
+    }
 
     let assignments = [];
 
@@ -72,10 +67,10 @@ function matchModules(modules, moduleItem) {
         'Quiz': 'red'
     }
 
-    // await asyncEach(async gradedItem => assignments.push({ id: gradedItem.title, x: await matchModules(courseModules, gradedItem), y: gradedItem.position, value: gradedItem.content_details.points_possible, type: typeToColor[gradedItem.type] }))
-    courseModules.forEach(gradedItem => assignments.push({ id: gradedItem.title, x: matchModules(modules, gradedItem), y: gradedItem.position, value: gradedItem.content_details.points_possible, type: typeToColor[gradedItem.type] }));
+    allItems.forEach(gradedItem => assignments.push({ id: gradedItem.title, x: matchModules(modules, gradedItem), y: gradedItem.position, value: gradedItem.content_details.points_possible || 0, type: typeToColor[gradedItem.type] || 'yellow' }));
 
-    console.log(`GradedItems: ${gradedItems.length}, assignments: ${assignments.length}`);
+    console.log(`GradedItems: ${allItems.length}, assignments: ${assignments.length}`);
+    console.log(assignments);
 
     fs.writeFileSync('./data.json', JSON.stringify(assignments, null, 4));
 
