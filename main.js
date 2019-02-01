@@ -15,7 +15,7 @@ const {
 const asyncEach = promisify(asyncLib.each);
 
 function retrieveInput() {
-    return 21050;
+    return 18664;
 }
 
 async function retrieveModules(courseId) {
@@ -23,24 +23,49 @@ async function retrieveModules(courseId) {
 }
 
 async function retrieveModuleItems(courseId, moduleId) {
-    return await canvas.get(`/api/v1/courses/${courseId}/modules/${moduleId}/items`);
+    return await canvas.get(`/api/v1/courses/${courseId}/modules/${moduleId}/items`, { "include[]": "content_details" });
 }
 
 (async (courseId) => {
     let courseModules = [];
     let modules = await retrieveModules(courseId);
 
-    console.log(modules);
-    //this next part doesn't quite work yet since the canvas course (my sandbox) is somehow messed up. I ran out of time while trying to figure it out.
-    modules = modules.filter(async module => {
-        if (await asyncEach(weeks, week => week.includes(module.name))) return true;
+    modules = modules.filter(module => weeks.includes(module.name));
 
-        return false;
-    });
 
     //iterate through all course modules asynchronously and retrieve each item
     await asyncEach(modules, async module => {
         courseModules.push(await retrieveModuleItems(courseId, module.id));
     });
+
+    let gradedItems = [];
+
+    //iterate through all module items and add ones with point value to the array gradedItems
+    courseModules.forEach(item => containsCourseDetails(item));
+
+    function containsCourseDetails(items) {
+        // console.log(items);
+        items.forEach(item => {
+            if (item.content_details.points_possible) {
+                gradedItems.push(item)
+            }
+        });
+    }
+
+    let assignments = [];
+
+    gradedItems.forEach(gradedItem => assignments.push({ id: gradedItem.title, x: gradedItem.title.substring(1, 3), y: 1, value: gradedItem.content_details.points_possible }));
+
+    console.log(assignments);
+
+    // new d3plus.Plot()
+    //     .data(assignments)
+    //     .groupBy("id")
+    //     .size("value")
+    //     .sizeMin(20)
+    //     .sizeMax(100)
+    //     .render(0);
+
+
 
 })(retrieveInput());
