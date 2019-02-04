@@ -8,10 +8,8 @@ const fs = require('fs');
 const weeks = require('./vars.js');
 const canvas = require('canvas-api-wrapper');
 const asyncLib = require('async');
-const {
-    promisify
-} = require('util');
-const asyncEach = promisify(asyncLib.each);
+const { promisify } = require('util');
+const asyncReduce = promisify(asyncLib.reduce);
 
 function retrieveInput() {
     return 16575;
@@ -25,64 +23,60 @@ async function retrieveModuleItems(courseId, moduleId) {
     return await canvas.get(`/api/v1/courses/${courseId}/modules/${moduleId}/items`, { "include[]": "content_details" });
 }
 
-function matchModules(modules, moduleItem) {
-    /* compare module_id of moduleItem to id of moduleList,
-    return position of moduleList if line 30 is true*/
-    let pos = 0;
-
-    modules.forEach(module => {
-        if (module.id === moduleItem.module_id) {
-            pos = module.position;
-        }
-    });
-
-    return (pos) ? pos : 0;
-}
 
 (async (courseId) => {
     let courseModules = [];
+    let excludeModule = ['Welcome', 'Instructor Resources', 'Resources']
     let modules = await retrieveModules(courseId);
 
+    modules = modules.filter(moduleIn => !excludeModule.includes(moduleIn.name));
+
+    // console.log(modules);
+
+    // let typeToColor = {
+    //     'Discussion': 'green',
+    //     'Assignment': 'blue',
+    //     'Quiz': 'red'
+    // }
+    let typeToColor = {
+        'Discussion': 1,
+        'Assignment': 2,
+        'Quiz': 3
+    }
+
+
     /* iterate through all course modules asynchronously and retrieve each item */
-    await asyncEach(modules, async module => {
-        courseModules.push(await retrieveModuleItems(courseId, module.id));
+    let allItems = await asyncReduce(modules, [], async (acc, moduleIn) => {
+        let moduleItems = await retrieveModuleItems(courseId, moduleIn.id);
+        moduleItems = moduleItems
+            // drop the no points/ 0 points
+            // .filter(item => item.content_details !== undefined && item.content_details.points_possible > 0)
+            //make sure they are in order
+            .sort((a, b) => a.position - b.position)
+            .map((moduleItem, i) => {
+                moduleItem.position = (i + 1) * -1;
+                moduleItem.moduleName = moduleIn.name;
+                moduleItem.modulePosition = moduleIn.position;
+                return moduleItem;
+            })
+        return acc.concat(moduleItems);
     });
 
-    let allItems = [];
 
-    /* iterate through all module items and add ones with point value to the array gradedItems */
-    courseModules.forEach(item => getAllItems(item));
+    allItems = allItems.map(gradedItem => {
+        return {
+            Name: gradedItem.title,
+            ModulePosition: gradedItem.modulePosition,
+            'Module Name': gradedItem.moduleName,
+            Position: gradedItem.position,
+            Points: gradedItem.content_details.points_possible || 0,
+            Type: gradedItem.type
+            // Color: typeToColor[gradedItem.type] || 'yellow'
+        }
 
-    function getAllItems(items) {
-        items.forEach(item => {
-            allItems.push(item)
-        });
-    }
-
-    let assignments = [];
-
-    let typeToColor = {
-        'Discussion': 'green',
-        'Assignment': 'blue',
-        'Quiz': 'red'
-    }
-
-    allItems.forEach(gradedItem => assignments.push({ id: gradedItem.title, x: matchModules(modules, gradedItem), y: gradedItem.position, value: gradedItem.content_details.points_possible || 0, type: typeToColor[gradedItem.type] || 'yellow' }));
-
-    console.log(`GradedItems: ${allItems.length}, assignments: ${assignments.length}`);
-    console.log(assignments);
-
-    fs.writeFileSync('./data.json', JSON.stringify(assignments, null, 4));
-
-    // new d3plus.Plot()
-    //     .data(assignments)
-    //     .groupBy("id")
-    //     .size("value")
-    //     .color("type")
-    //     .sizeMin(20)
-    //     .sizeMax(100)
-    //     .render(0);
+    });
 
 
+    fs.writeFileSync('./data.json', JSON.stringify(allItems, null, 4));
 
 })(retrieveInput());

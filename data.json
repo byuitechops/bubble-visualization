@@ -1,1913 +1,1978 @@
 [
     {
-        "id": "Syllabus",
-        "x": 1,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W01 Lesson Notes",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
+    },
+    {
+        "Name": "Lesson 01: Course Introduction",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -2,
+        "Points": 0,
+        "Type": "SubHeader"
+    },
+    {
+        "Name": "Orientation to Online Learning",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -3,
+        "Points": 0,
+        "Type": "ExternalUrl"
+    },
+    {
+        "Name": "W01 _ActivityType_: Questions and Conversations",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -4,
+        "Points": 0,
+        "Type": "Discussion"
+    },
+    {
+        "Name": "W01 _ActivityType_: Overview",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
+    },
+    {
+        "Name": "W01 _ActivityType_: Introduction",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
+    },
+    {
+        "Name": "W01 _ActivityType_: Homework",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -7,
+        "Points": 0,
+        "Type": "Page"
+    },
+    {
+        "Name": "W01 _ActivityType_: Homework",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -8,
+        "Points": 6,
+        "Type": "Quiz"
+    },
+    {
+        "Name": "W01 _ActivityType_: Course Survey - Start of Semester",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -9,
+        "Points": 1,
+        "Type": "Quiz"
+    },
+    {
+        "Name": "W01 _ActivityType_: Knowledge Survey - Start of Semester",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -10,
+        "Points": 1,
+        "Type": "Quiz"
+    },
+    {
+        "Name": "Technology Folder",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -11,
+        "Points": 0,
+        "Type": "SubHeader"
+    },
+    {
+        "Name": "W01 _ActivityType_: Group Sign Ups Instructions For Teacher",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -12,
+        "Points": 0,
+        "Type": "Page"
+    },
+    {
+        "Name": "W01 _ActivityType_: Group Sign Ups",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -13,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W _ActivityType_: Final Project Overview",
-        "x": 17,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W01 _ActivityType_: Setup Google Account",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -14,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W _ActivityType_: Final Project Rubric",
-        "x": 17,
-        "y": 2,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W01 _ActivityType_: Google Activity Instructions",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -15,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W _ActivityType_: Evaluation - Instructions",
-        "x": 17,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W01 _ActivityType_: Google Activity",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -16,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W14 Lesson Notes",
-        "x": 16,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W01 _ActivityType_: Software Setup",
+        "ModulePosition": 3,
+        "Module Name": "Week 01",
+        "Position": -17,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W13 _ActivityType_: Questions and Conversations",
-        "x": 16,
-        "y": 2,
-        "value": 0,
-        "type": "green"
+        "Name": "W02 Lesson Notes",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W14 _ActivityType_: Overview",
-        "x": 16,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W02 _ActivityType_: Questions and Conversations",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -2,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "The Unit IV Exam",
-        "x": 16,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W02 _ActivityType_: Overview",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W14 _ActivityType_: Individual Preparation",
-        "x": 16,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 02",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -4,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W14 _ActivityType_: Group Meeting",
-        "x": 16,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W02 _ActivityType_: Individual Preparation",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W14 _ActivityType_: Homework",
-        "x": 16,
-        "y": 7,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W02 _ActivityType_: Group Meeting",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W14 _ActivityType_: Knowledge Survey - End of Semester",
-        "x": 16,
-        "y": 8,
-        "value": 1,
-        "type": "red"
+        "Name": "W02 _ActivityType_: Group Meeting",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -7,
+        "Points": 17,
+        "Type": "Quiz"
     },
     {
-        "id": "W14 _ActivityType_: The Unit IV Exam",
-        "x": 16,
-        "y": 9,
-        "value": 40,
-        "type": "red"
+        "Name": "W02 _ActivityType_: Homework-2",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -8,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Setup For Course Instructor",
-        "x": 2,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W02 _ActivityType_: Homework",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -9,
+        "Points": 10,
+        "Type": "Quiz"
     },
     {
-        "id": "General Lesson Notes",
-        "x": 2,
-        "y": 2,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W02 _ActivityType_: Group Collaboration",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -10,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "Course Map",
-        "x": 2,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 03",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -11,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "Teaching Group Directory",
-        "x": 2,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W02 _ActivityType_: Individual Preparation-2",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -12,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Online Instructor Community",
-        "x": 2,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W02 _ActivityType_: Group Meeting-2",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -13,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Release Notes",
-        "x": 2,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W02 _ActivityType_: Group Meeting",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -14,
+        "Points": 18,
+        "Type": "Quiz"
     },
     {
-        "id": "Teaching Assistant Notes",
-        "x": 2,
-        "y": 7,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W02 _ActivityType_: Homework",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -15,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Instructor Help Guide: Getting Started with Zoom",
-        "x": 2,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W02 _ActivityType_: Homework",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -16,
+        "Points": 10,
+        "Type": "Quiz"
     },
     {
-        "id": "Course Support",
-        "x": 2,
-        "y": 9,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W02 _ActivityType_: Group Collaboration",
+        "ModulePosition": 4,
+        "Module Name": "Week 02",
+        "Position": -17,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "Setup Notes For Development Team",
-        "x": 2,
-        "y": 10,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 Lesson Notes",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Course Development",
-        "x": 2,
-        "y": 11,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Question and Conversations",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -2,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "Course Maintenance",
-        "x": 2,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Overview",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W11 Lesson Notes",
-        "x": 13,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 04: Probability; Discrete Random Variables",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -4,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W11 _ActivityType_: Questions and Conversations",
-        "x": 13,
-        "y": 2,
-        "value": 0,
-        "type": "green"
+        "Name": "W03 _ActivityType_: Individual Preparation",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W11 _ActivityType_: Overview",
-        "x": 13,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Group Meeting",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 20",
-        "x": 13,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Group Meeting",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -7,
+        "Points": 15,
+        "Type": "Quiz"
     },
     {
-        "id": "W11 _ActivityType_: Individual Preparation",
-        "x": 13,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Group Collaboration Instructions",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -8,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W11 _ActivityType_: Group Meeting",
-        "x": 13,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Group Collaboration",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -9,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W11 _ActivityType_: Group Meeting",
-        "x": 13,
-        "y": 7,
-        "value": 43,
-        "type": "red"
+        "Name": "W03 _ActivityType_: Homework",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -10,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W11 _ActivityType_: Homework and Exam Information",
-        "x": 13,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Homework",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -11,
+        "Points": 7,
+        "Type": "Quiz"
     },
     {
-        "id": "W11 _ActivityType_: The Unit III Exam",
-        "x": 13,
-        "y": 9,
-        "value": 33,
-        "type": "red"
+        "Name": "Lesson 05: Normal Distributions",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -12,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W11 _ActivityType_: Collect and Describe the Data - Submission",
-        "x": 13,
-        "y": 10,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Individual Preparation-2",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -13,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "University Policies",
-        "x": 18,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Group Meeting-2",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -14,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Online Support Center",
-        "x": 18,
-        "y": 2,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Group Meeting",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -15,
+        "Points": 20,
+        "Type": "Quiz"
     },
     {
-        "id": "Library Research Guides",
-        "x": 18,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Group Collaboration Instructions-2",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -16,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Academic Support Cener",
-        "x": 18,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Group Collaboration",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -17,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "Copyright and Source Info",
-        "x": 18,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Homework-2",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -18,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "How To Use: Google Hangouts on Air",
-        "x": 18,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W03 _ActivityType_: Homework",
+        "ModulePosition": 5,
+        "Module Name": "Week 03",
+        "Position": -19,
+        "Points": 10,
+        "Type": "Quiz"
     },
     {
-        "id": "Online Textbook",
-        "x": 18,
-        "y": 7,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W04 Lesson Notes",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Online Textbook (PDF)",
-        "x": 18,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W04 _ActivityType_: Questions and Conversations",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -2,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "Lesson Powerpoints",
-        "x": 18,
-        "y": 9,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W04 _ActivityType_: Overview",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Statistics Methods Table and Flow Chart",
-        "x": 18,
-        "y": 10,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 06",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -4,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "Google Hangouts",
-        "x": 18,
-        "y": 11,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W04 _ActivityType_: Individual Preparation",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Optional",
-        "x": 18,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W04 _ActivityType_: Group Meeting",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Student Help Guide: Getting Started with Zoom",
-        "x": 18,
-        "y": 13,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W04 _ActivityType_: Group Meeting",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -7,
+        "Points": 14,
+        "Type": "Quiz"
     },
     {
-        "id": "W04 Lesson Notes",
-        "x": 6,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W04 _ActivityType_: Group Collaboration Instructions",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -8,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W04 _ActivityType_: Questions and Conversations",
-        "x": 6,
-        "y": 2,
-        "value": 0,
-        "type": "green"
+        "Name": "W04 _ActivityType_: Group Collaboration",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -9,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W04 _ActivityType_: Overview",
-        "x": 6,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W04 _ActivityType_: Homework",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -10,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 06",
-        "x": 6,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W04 _ActivityType_: Homework",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -11,
+        "Points": 10,
+        "Type": "Quiz"
     },
     {
-        "id": "W04 _ActivityType_: Individual Preparation",
-        "x": 6,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 07",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -12,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W04 _ActivityType_: Group Meeting",
-        "x": 6,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W04 _ActivityType_: Individual Preparation-2",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -13,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W04 _ActivityType_: Group Meeting",
-        "x": 6,
-        "y": 7,
-        "value": 14,
-        "type": "red"
+        "Name": "W04 _ActivityType_: Group Meeting-2",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -14,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W04 _ActivityType_: Group Collaboration Instructions",
-        "x": 6,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W04 _ActivityType_: Group Meeting",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -15,
+        "Points": 17,
+        "Type": "Quiz"
     },
     {
-        "id": "W04 _ActivityType_: Group Collaboration",
-        "x": 6,
-        "y": 9,
-        "value": 10,
-        "type": "green"
+        "Name": "W04 _ActivityType_: Group Collaboration Instructions-2",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -16,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W04 _ActivityType_: Homework",
-        "x": 6,
-        "y": 10,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W04 _ActivityType_: Group Collaboration",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -17,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W04 _ActivityType_: Homework",
-        "x": 6,
-        "y": 11,
-        "value": 10,
-        "type": "red"
+        "Name": "W04 _ActivityType_: Homework-2",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -18,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 07",
-        "x": 6,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W04 _ActivityType_: Homework",
+        "ModulePosition": 6,
+        "Module Name": "Week 04",
+        "Position": -19,
+        "Points": 10,
+        "Type": "Quiz"
     },
     {
-        "id": "W04 _ActivityType_: Individual Preparation-2",
-        "x": 6,
-        "y": 13,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W05 Lesson Notes",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W04 _ActivityType_: Group Meeting-2",
-        "x": 6,
-        "y": 14,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W05 _ActivityType_: Questions and Conversations",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -2,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "W04 _ActivityType_: Group Meeting",
-        "x": 6,
-        "y": 15,
-        "value": 17,
-        "type": "red"
+        "Name": "W05 _ActivityType_: Overview",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W04 _ActivityType_: Group Collaboration Instructions-2",
-        "x": 6,
-        "y": 16,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 08",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -4,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W04 _ActivityType_: Group Collaboration",
-        "x": 6,
-        "y": 17,
-        "value": 10,
-        "type": "green"
+        "Name": "W05 _ActivityType_: Individual Preparation",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W04 _ActivityType_: Homework-2",
-        "x": 6,
-        "y": 18,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W05 _ActivityType_: Group Meeting",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W04 _ActivityType_: Homework",
-        "x": 6,
-        "y": 19,
-        "value": 10,
-        "type": "red"
+        "Name": "W05 _ActivityType_: Group Meeting",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -7,
+        "Points": 31,
+        "Type": "Quiz"
     },
     {
-        "id": "W01 Lesson Notes",
-        "x": 3,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W05 _ActivityType_: Homework and Exam Information",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -8,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 01: Course Introduction",
-        "x": 3,
-        "y": 2,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W05 _ActivityType_: The Unit I Exam",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -9,
+        "Points": 33,
+        "Type": "Quiz"
     },
     {
-        "id": "Orientation to Online Learning",
-        "x": 3,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 09",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -10,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W01 _ActivityType_: Questions and Conversations",
-        "x": 3,
-        "y": 4,
-        "value": 0,
-        "type": "green"
+        "Name": "W05 _ActivityType_: Individual Preparation-2",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -11,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W01 _ActivityType_: Overview",
-        "x": 3,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W05 _ActivityType_: Lesson 09 Group Meeting",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -12,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W01 _ActivityType_: Introduction",
-        "x": 3,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W05 _ActivityType_: Group Meeting",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -13,
+        "Points": 23,
+        "Type": "Quiz"
     },
     {
-        "id": "W01 _ActivityType_: Homework",
-        "x": 3,
-        "y": 7,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W05 _ActivityType_: Group Collaboration Instructions",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -14,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W01 _ActivityType_: Homework",
-        "x": 3,
-        "y": 8,
-        "value": 6,
-        "type": "red"
+        "Name": "W05 _ActivityType_: Lesson 09 Group Collaboration",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -15,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W01 _ActivityType_: Course Survey - Start of Semester",
-        "x": 3,
-        "y": 9,
-        "value": 1,
-        "type": "red"
+        "Name": "W05 _ActivityType_: Homework",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -16,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W01 _ActivityType_: Knowledge Survey - Start of Semester",
-        "x": 3,
-        "y": 10,
-        "value": 1,
-        "type": "red"
+        "Name": "W05 _ActivityType_: Homework",
+        "ModulePosition": 7,
+        "Module Name": "Week 05",
+        "Position": -17,
+        "Points": 10,
+        "Type": "Quiz"
     },
     {
-        "id": "Technology Folder",
-        "x": 3,
-        "y": 11,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W06 Lesson Notes",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W01 _ActivityType_: Group Sign Ups Instructions For Teacher",
-        "x": 3,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W06 _ActivityType_: Questions and Conversations",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -2,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "W01 _ActivityType_: Group Sign Ups",
-        "x": 3,
-        "y": 13,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W06 _ActivityType_: Overview",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W01 _ActivityType_: Setup Google Account",
-        "x": 3,
-        "y": 14,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 10",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -4,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W01 _ActivityType_: Google Activity Instructions",
-        "x": 3,
-        "y": 15,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W06 _ActivityType_: Individual Preparation",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W01 _ActivityType_: Google Activity",
-        "x": 3,
-        "y": 16,
-        "value": 10,
-        "type": "green"
+        "Name": "W06 _ActivityType_: Group Meeting",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W01 _ActivityType_: Software Setup",
-        "x": 3,
-        "y": 17,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W06 _ActivityType_: Group Meeting",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -7,
+        "Points": 14,
+        "Type": "Quiz"
     },
     {
-        "id": "W07 Lesson Notes",
-        "x": 9,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W06 _ActivityType_: Group Collaboration Instructions",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -8,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W07 _ActivityType_: Questions and Conversations",
-        "x": 9,
-        "y": 2,
-        "value": 0,
-        "type": "green"
+        "Name": "W06 _ActivityType_: Group Collaboration",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -9,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W07 _ActivityType_: Overview",
-        "x": 9,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W06 _ActivityType_: Homework",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -10,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 12",
-        "x": 9,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W06 _ActivityType_: Homework",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -11,
+        "Points": 13,
+        "Type": "Quiz"
     },
     {
-        "id": "W07 _ActivityType_: Individual Preparation",
-        "x": 9,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 11",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -12,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W07 _ActivityType_: Group Meeting",
-        "x": 9,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W06 _ActivityType_: Individual Preparation-2",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -13,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W07 _ActivityType_: Group Meeting",
-        "x": 9,
-        "y": 7,
-        "value": 20,
-        "type": "red"
+        "Name": "W06 _ActivityType_: Group Meeting-2",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -14,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W07 _ActivityType_: Group Collaboration Instructions",
-        "x": 9,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W06 _ActivityType_: Group Meeting",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -15,
+        "Points": 17,
+        "Type": "Quiz"
     },
     {
-        "id": "W07 _ActivityType_: Group Collaboration",
-        "x": 9,
-        "y": 9,
-        "value": 10,
-        "type": "green"
+        "Name": "W06 _ActivityType_: Group Collaboration Instructions-2",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -16,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W07 _ActivityType_: Homework",
-        "x": 9,
-        "y": 10,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W06 _ActivityType_: Group Collaboration",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -17,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W07 _ActivityType_: Homework",
-        "x": 9,
-        "y": 11,
-        "value": 12,
-        "type": "red"
+        "Name": "W06 _ActivityType_: Homework-2",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -18,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 13",
-        "x": 9,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W06 _ActivityType_: Homework",
+        "ModulePosition": 8,
+        "Module Name": "Week 06",
+        "Position": -19,
+        "Points": 11,
+        "Type": "Quiz"
     },
     {
-        "id": "W07 _ActivityType_: Individual Preparation-2",
-        "x": 9,
-        "y": 13,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W07 Lesson Notes",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W07 _ActivityType_: Group Meeting-2",
-        "x": 9,
-        "y": 14,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W07 _ActivityType_: Questions and Conversations",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -2,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "W07 _ActivityType_: Group Meeting",
-        "x": 9,
-        "y": 15,
-        "value": 19,
-        "type": "red"
+        "Name": "W07 _ActivityType_: Overview",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W07 _ActivityType_: Group Collaboration Instructions-2",
-        "x": 9,
-        "y": 16,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 12",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -4,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W07 _ActivityType_: Group Collaboration",
-        "x": 9,
-        "y": 17,
-        "value": 10,
-        "type": "green"
+        "Name": "W07 _ActivityType_: Individual Preparation",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W07 _ActivityType_: Homework-2",
-        "x": 9,
-        "y": 18,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W07 _ActivityType_: Group Meeting",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W07 _ActivityType_: Homework",
-        "x": 9,
-        "y": 19,
-        "value": 11,
-        "type": "red"
+        "Name": "W07 _ActivityType_: Group Meeting",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -7,
+        "Points": 20,
+        "Type": "Quiz"
     },
     {
-        "id": "W05 Lesson Notes",
-        "x": 7,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W07 _ActivityType_: Group Collaboration Instructions",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -8,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W05 _ActivityType_: Questions and Conversations",
-        "x": 7,
-        "y": 2,
-        "value": 0,
-        "type": "green"
+        "Name": "W07 _ActivityType_: Group Collaboration",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -9,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W05 _ActivityType_: Overview",
-        "x": 7,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W07 _ActivityType_: Homework",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -10,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 08",
-        "x": 7,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W07 _ActivityType_: Homework",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -11,
+        "Points": 12,
+        "Type": "Quiz"
     },
     {
-        "id": "W05 _ActivityType_: Individual Preparation",
-        "x": 7,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 13",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -12,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W05 _ActivityType_: Group Meeting",
-        "x": 7,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W07 _ActivityType_: Individual Preparation-2",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -13,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W05 _ActivityType_: Group Meeting",
-        "x": 7,
-        "y": 7,
-        "value": 31,
-        "type": "red"
+        "Name": "W07 _ActivityType_: Group Meeting-2",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -14,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W05 _ActivityType_: Homework and Exam Information",
-        "x": 7,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W07 _ActivityType_: Group Meeting",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -15,
+        "Points": 19,
+        "Type": "Quiz"
     },
     {
-        "id": "W05 _ActivityType_: The Unit I Exam",
-        "x": 7,
-        "y": 9,
-        "value": 33,
-        "type": "red"
+        "Name": "W07 _ActivityType_: Group Collaboration Instructions-2",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -16,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 09",
-        "x": 7,
-        "y": 10,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W07 _ActivityType_: Group Collaboration",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -17,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W05 _ActivityType_: Individual Preparation-2",
-        "x": 7,
-        "y": 11,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W07 _ActivityType_: Homework-2",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -18,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W05 _ActivityType_: Lesson 09 Group Meeting",
-        "x": 7,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W07 _ActivityType_: Homework",
+        "ModulePosition": 9,
+        "Module Name": "Week 07",
+        "Position": -19,
+        "Points": 11,
+        "Type": "Quiz"
     },
     {
-        "id": "W05 _ActivityType_: Group Meeting",
-        "x": 7,
-        "y": 13,
-        "value": 23,
-        "type": "red"
+        "Name": "W08 Lesson Notes",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W05 _ActivityType_: Group Collaboration Instructions",
-        "x": 7,
-        "y": 14,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W08 _ActivityType_: Questions and Conversations",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -2,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "W05 _ActivityType_: Lesson 09 Group Collaboration",
-        "x": 7,
-        "y": 15,
-        "value": 10,
-        "type": "green"
+        "Name": "W08 _ActivityType_: Overview",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W05 _ActivityType_: Homework",
-        "x": 7,
-        "y": 16,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 14: Inference for Several Means: ANOVA",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -4,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W05 _ActivityType_: Homework",
-        "x": 7,
-        "y": 17,
-        "value": 10,
-        "type": "red"
+        "Name": "W08 _ActivityType_: Individual Preparation",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W06 Lesson Notes",
-        "x": 8,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W08 _ActivityType_: Group Meeting",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W06 _ActivityType_: Questions and Conversations",
-        "x": 8,
-        "y": 2,
-        "value": 0,
-        "type": "green"
+        "Name": "W08 _ActivityType_: Group Meeting",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -7,
+        "Points": 20,
+        "Type": "Quiz"
     },
     {
-        "id": "W06 _ActivityType_: Overview",
-        "x": 8,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W08 _ActivityType_: Group Collaboration Instructions",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -8,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 10",
-        "x": 8,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W08 _ActivityType_: Group Collaboration",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -9,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W06 _ActivityType_: Individual Preparation",
-        "x": 8,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W08 _ActivityType_: Homework",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -10,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W06 _ActivityType_: Group Meeting",
-        "x": 8,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W08 _ActivityType_: Homework",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -11,
+        "Points": 10,
+        "Type": "Quiz"
     },
     {
-        "id": "W06 _ActivityType_: Group Meeting",
-        "x": 8,
-        "y": 7,
-        "value": 14,
-        "type": "red"
+        "Name": "Lesson 15",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -12,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W06 _ActivityType_: Group Collaboration Instructions",
-        "x": 8,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W08 _ActivityType_: Individual Preparation-2",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -13,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W06 _ActivityType_: Group Collaboration",
-        "x": 8,
-        "y": 9,
-        "value": 10,
-        "type": "green"
+        "Name": "W08 _ActivityType_: Group Meeting-2",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -14,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W06 _ActivityType_: Homework",
-        "x": 8,
-        "y": 10,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W08 _ActivityType_: Group Meeting",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -15,
+        "Points": 30,
+        "Type": "Quiz"
     },
     {
-        "id": "W06 _ActivityType_: Homework",
-        "x": 8,
-        "y": 11,
-        "value": 13,
-        "type": "red"
+        "Name": "W08 _ActivityType_: Homework and Exam Information",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -16,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 11",
-        "x": 8,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W08 _ActivityType_: The Unit II Exam",
+        "ModulePosition": 10,
+        "Module Name": "Week 08",
+        "Position": -17,
+        "Points": 33,
+        "Type": "Quiz"
     },
     {
-        "id": "W06 _ActivityType_: Individual Preparation-2",
-        "x": 8,
-        "y": 13,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W09 Lesson Notes",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W06 _ActivityType_: Group Meeting-2",
-        "x": 8,
-        "y": 14,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W09 _ActivityType_: Questions and Conversations",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -2,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "W06 _ActivityType_: Group Meeting",
-        "x": 8,
-        "y": 15,
-        "value": 17,
-        "type": "red"
+        "Name": "W09 _ActivityType_: Overview",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W06 _ActivityType_: Group Collaboration Instructions-2",
-        "x": 8,
-        "y": 16,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 16",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -4,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W06 _ActivityType_: Group Collaboration",
-        "x": 8,
-        "y": 17,
-        "value": 10,
-        "type": "green"
+        "Name": "W09 _ActivityType_: Individual Preparation",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W06 _ActivityType_: Homework-2",
-        "x": 8,
-        "y": 18,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W09 _ActivityType_: Group Meeting",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W06 _ActivityType_: Homework",
-        "x": 8,
-        "y": 19,
-        "value": 11,
-        "type": "red"
+        "Name": "W09 _ActivityType_: Group Meeting",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -7,
+        "Points": 18,
+        "Type": "Quiz"
     },
     {
-        "id": "W02 Lesson Notes",
-        "x": 4,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W09 _ActivityType_: Group Collaboration Instructions",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -8,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W02 _ActivityType_: Questions and Conversations",
-        "x": 4,
-        "y": 2,
-        "value": 0,
-        "type": "green"
+        "Name": "W09 _ActivityType_: Group Collaboration",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -9,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W02 _ActivityType_: Overview",
-        "x": 4,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W09 _ActivityType_: Homework",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -10,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 02",
-        "x": 4,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W09 _ActivityType_: Homework",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -11,
+        "Points": 10,
+        "Type": "Quiz"
     },
     {
-        "id": "W02 _ActivityType_: Individual Preparation",
-        "x": 4,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W09 _ActivityType_: Design the Study - Instructions",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -12,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W02 _ActivityType_: Group Meeting",
-        "x": 4,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W09 _ActivityType_: Design the Study Self-Report",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -13,
+        "Points": 3,
+        "Type": "Quiz"
     },
     {
-        "id": "W02 _ActivityType_: Group Meeting",
-        "x": 4,
-        "y": 7,
-        "value": 17,
-        "type": "red"
+        "Name": "Lesson 17: Inference for One Proportion",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -14,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W02 _ActivityType_: Homework-2",
-        "x": 4,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W09 _ActivityType_: Individual Preparation-2",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -15,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W02 _ActivityType_: Homework",
-        "x": 4,
-        "y": 9,
-        "value": 10,
-        "type": "red"
+        "Name": "W09 _ActivityType_: Group Meeting-2",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -16,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W02 _ActivityType_: Group Collaboration",
-        "x": 4,
-        "y": 10,
-        "value": 0,
-        "type": "green"
+        "Name": "W09 _ActivityType_: Group Meeting",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -17,
+        "Points": 19,
+        "Type": "Quiz"
     },
     {
-        "id": "Lesson 03",
-        "x": 4,
-        "y": 11,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W09 _ActivityType_: Group Collaboration Instructions-2",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -18,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W02 _ActivityType_: Individual Preparation-2",
-        "x": 4,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W09 _ActivityType_: Group Collaboration",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -19,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W02 _ActivityType_: Group Meeting-2",
-        "x": 4,
-        "y": 13,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W09 _ActivityType_: Homework-2",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -20,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W02 _ActivityType_: Group Meeting",
-        "x": 4,
-        "y": 14,
-        "value": 18,
-        "type": "red"
+        "Name": "W09 _ActivityType_: Homework",
+        "ModulePosition": 11,
+        "Module Name": "Week 09",
+        "Position": -21,
+        "Points": 11,
+        "Type": "Quiz"
     },
     {
-        "id": "W02 _ActivityType_: Homework",
-        "x": 4,
-        "y": 15,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W10 Lesson Notes",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W02 _ActivityType_: Homework",
-        "x": 4,
-        "y": 16,
-        "value": 10,
-        "type": "red"
+        "Name": "W10 _ActivityType_: Questions and Conversations",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -2,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "W02 _ActivityType_: Group Collaboration",
-        "x": 4,
-        "y": 17,
-        "value": 0,
-        "type": "green"
+        "Name": "W10 _ActivityType_: Overview",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W09 Lesson Notes",
-        "x": 11,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 18: Inference for Two Proportions",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -4,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W09 _ActivityType_: Questions and Conversations",
-        "x": 11,
-        "y": 2,
-        "value": 0,
-        "type": "green"
+        "Name": "W10 _ActivityType_: Individual Preparation",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W09 _ActivityType_: Overview",
-        "x": 11,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W10 _ActivityType_: Group Meeting",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 16",
-        "x": 11,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W10 _ActivityType_: Group Meeting",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -7,
+        "Points": 21,
+        "Type": "Quiz"
     },
     {
-        "id": "W09 _ActivityType_: Individual Preparation",
-        "x": 11,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W10 _ActivityType_: Group Collaboration Instructions",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -8,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W09 _ActivityType_: Group Meeting",
-        "x": 11,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W10 _ActivityType_: Group Collaboration",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -9,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W09 _ActivityType_: Group Meeting",
-        "x": 11,
-        "y": 7,
-        "value": 18,
-        "type": "red"
+        "Name": "W10 _ActivityType_: Homework",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -10,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W09 _ActivityType_: Group Collaboration Instructions",
-        "x": 11,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W10 _ActivityType_: Homework",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -11,
+        "Points": 12,
+        "Type": "Quiz"
     },
     {
-        "id": "W09 _ActivityType_: Group Collaboration",
-        "x": 11,
-        "y": 9,
-        "value": 10,
-        "type": "green"
+        "Name": "W10 _ActivityType_: IRB Approval Reminder",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -12,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W09 _ActivityType_: Homework",
-        "x": 11,
-        "y": 10,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W10 _ActivityType_: Collect and Describe the Data - Instructions",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -13,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W09 _ActivityType_: Homework",
-        "x": 11,
-        "y": 11,
-        "value": 10,
-        "type": "red"
+        "Name": "Lesson 19",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -14,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W09 _ActivityType_: Design the Study - Instructions",
-        "x": 11,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W10 _ActivityType_: Individual Preparation-2",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -15,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W09 _ActivityType_: Design the Study Self-Report",
-        "x": 11,
-        "y": 13,
-        "value": 3,
-        "type": "red"
+        "Name": "W10 _ActivityType_: Group Meeting-2",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -16,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 17: Inference for One Proportion",
-        "x": 11,
-        "y": 14,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W10 _ActivityType_: Group Meeting",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -17,
+        "Points": 16,
+        "Type": "Quiz"
     },
     {
-        "id": "W09 _ActivityType_: Individual Preparation-2",
-        "x": 11,
-        "y": 15,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W10 _ActivityType_: Group Collaboration Instructions-2",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -18,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W09 _ActivityType_: Group Meeting-2",
-        "x": 11,
-        "y": 16,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W10 _ActivityType_: Group Collaboration",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -19,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W09 _ActivityType_: Group Meeting",
-        "x": 11,
-        "y": 17,
-        "value": 19,
-        "type": "red"
+        "Name": "W10 _ActivityType_: Homework-2",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -20,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W09 _ActivityType_: Group Collaboration Instructions-2",
-        "x": 11,
-        "y": 18,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W10 _ActivityType_: Homework",
+        "ModulePosition": 12,
+        "Module Name": "Week 10",
+        "Position": -21,
+        "Points": 11,
+        "Type": "Quiz"
     },
     {
-        "id": "W09 _ActivityType_: Group Collaboration",
-        "x": 11,
-        "y": 19,
-        "value": 10,
-        "type": "green"
+        "Name": "W11 Lesson Notes",
+        "ModulePosition": 13,
+        "Module Name": "Week 11",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W09 _ActivityType_: Homework-2",
-        "x": 11,
-        "y": 20,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W11 _ActivityType_: Questions and Conversations",
+        "ModulePosition": 13,
+        "Module Name": "Week 11",
+        "Position": -2,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "W09 _ActivityType_: Homework",
-        "x": 11,
-        "y": 21,
-        "value": 11,
-        "type": "red"
+        "Name": "W11 _ActivityType_: Overview",
+        "ModulePosition": 13,
+        "Module Name": "Week 11",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W03 Lesson Notes",
-        "x": 5,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 20",
+        "ModulePosition": 13,
+        "Module Name": "Week 11",
+        "Position": -4,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W03 _ActivityType_: Question and Conversations",
-        "x": 5,
-        "y": 2,
-        "value": 0,
-        "type": "green"
+        "Name": "W11 _ActivityType_: Individual Preparation",
+        "ModulePosition": 13,
+        "Module Name": "Week 11",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W03 _ActivityType_: Overview",
-        "x": 5,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W11 _ActivityType_: Group Meeting",
+        "ModulePosition": 13,
+        "Module Name": "Week 11",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 04: Probability; Discrete Random Variables",
-        "x": 5,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W11 _ActivityType_: Group Meeting",
+        "ModulePosition": 13,
+        "Module Name": "Week 11",
+        "Position": -7,
+        "Points": 43,
+        "Type": "Quiz"
     },
     {
-        "id": "W03 _ActivityType_: Individual Preparation",
-        "x": 5,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W11 _ActivityType_: Homework and Exam Information",
+        "ModulePosition": 13,
+        "Module Name": "Week 11",
+        "Position": -8,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W03 _ActivityType_: Group Meeting",
-        "x": 5,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W11 _ActivityType_: The Unit III Exam",
+        "ModulePosition": 13,
+        "Module Name": "Week 11",
+        "Position": -9,
+        "Points": 33,
+        "Type": "Quiz"
     },
     {
-        "id": "W03 _ActivityType_: Group Meeting",
-        "x": 5,
-        "y": 7,
-        "value": 15,
-        "type": "red"
+        "Name": "W11 _ActivityType_: Collect and Describe the Data - Submission",
+        "ModulePosition": 13,
+        "Module Name": "Week 11",
+        "Position": -10,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W03 _ActivityType_: Group Collaboration Instructions",
-        "x": 5,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W12 Lesson Notes",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W03 _ActivityType_: Group Collaboration",
-        "x": 5,
-        "y": 9,
-        "value": 10,
-        "type": "green"
+        "Name": "W12 _ActivityType_: Questions and Conversations",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -2,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "W03 _ActivityType_: Homework",
-        "x": 5,
-        "y": 10,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W12 _ActivityType_: Overview",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W03 _ActivityType_: Homework",
-        "x": 5,
-        "y": 11,
-        "value": 7,
-        "type": "red"
+        "Name": "Lesson 21",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -4,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "Lesson 05: Normal Distributions",
-        "x": 5,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W12 _ActivityType_: Individual Preparation",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W03 _ActivityType_: Individual Preparation-2",
-        "x": 5,
-        "y": 13,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W12 _ActivityType_: Group Meeting",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W03 _ActivityType_: Group Meeting-2",
-        "x": 5,
-        "y": 14,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W12 _ActivityType_: Group Meeting",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -7,
+        "Points": 14,
+        "Type": "Quiz"
     },
     {
-        "id": "W03 _ActivityType_: Group Meeting",
-        "x": 5,
-        "y": 15,
-        "value": 20,
-        "type": "red"
+        "Name": "W12 _ActivityType_: Group Collaboration Instructions",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -8,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W03 _ActivityType_: Group Collaboration Instructions-2",
-        "x": 5,
-        "y": 16,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W12 _ActivityType_: Group Collaboration",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -9,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W03 _ActivityType_: Group Collaboration",
-        "x": 5,
-        "y": 17,
-        "value": 10,
-        "type": "green"
+        "Name": "W12 _ActivityType_: Homework",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -10,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W03 _ActivityType_: Homework-2",
-        "x": 5,
-        "y": 18,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W12 _ActivityType_: Homework",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -11,
+        "Points": 9,
+        "Type": "Quiz"
     },
     {
-        "id": "W03 _ActivityType_: Homework",
-        "x": 5,
-        "y": 19,
-        "value": 10,
-        "type": "red"
+        "Name": "W12 _ActivityType_: Make Inference and Take Action - Instructions",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -12,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W12 Lesson Notes",
-        "x": 14,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 22: Simple Linear Regression",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -13,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W12 _ActivityType_: Questions and Conversations",
-        "x": 14,
-        "y": 2,
-        "value": 0,
-        "type": "green"
+        "Name": "W12 _ActivityType_: Individual Preparation-2",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -14,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W12 _ActivityType_: Overview",
-        "x": 14,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W12 _ActivityType_: Group Meeting-2",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -15,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 21",
-        "x": 14,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W12 _ActivityType_: Group Meeting",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -16,
+        "Points": 17,
+        "Type": "Quiz"
     },
     {
-        "id": "W12 _ActivityType_: Individual Preparation",
-        "x": 14,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W12 _ActivityType_: Group Collaboration Instructions-2",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -17,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W12 _ActivityType_: Group Meeting",
-        "x": 14,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W12 _ActivityType_: Group Collaboration",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -18,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W12 _ActivityType_: Group Meeting",
-        "x": 14,
-        "y": 7,
-        "value": 14,
-        "type": "red"
+        "Name": "W12 _ActivityType_: Homework-2",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -19,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W12 _ActivityType_: Group Collaboration Instructions",
-        "x": 14,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W12 _ActivityType_: Homework",
+        "ModulePosition": 14,
+        "Module Name": "Week 12",
+        "Position": -20,
+        "Points": 10,
+        "Type": "Quiz"
     },
     {
-        "id": "W12 _ActivityType_: Group Collaboration",
-        "x": 14,
-        "y": 9,
-        "value": 10,
-        "type": "green"
+        "Name": "W13 Lesson Notes",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W12 _ActivityType_: Homework",
-        "x": 14,
-        "y": 10,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W13 _ActivityType_: Questions and Conversations",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -2,
+        "Points": 0,
+        "Type": "Discussion"
     },
     {
-        "id": "W12 _ActivityType_: Homework",
-        "x": 14,
-        "y": 11,
-        "value": 9,
-        "type": "red"
+        "Name": "W13 _ActivityType_: Overview",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W12 _ActivityType_: Make Inference and Take Action - Instructions",
-        "x": 14,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 23: Inference for Bivariate Data",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -4,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "Lesson 22: Simple Linear Regression",
-        "x": 14,
-        "y": 13,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W13 _ActivityType_: Individual Preparation",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W12 _ActivityType_: Individual Preparation-2",
-        "x": 14,
-        "y": 14,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W13 _ActivityType_: Group Meeting",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W12 _ActivityType_: Group Meeting-2",
-        "x": 14,
-        "y": 15,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W13 _ActivityType_: Group Meeting",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -7,
+        "Points": 18,
+        "Type": "Quiz"
     },
     {
-        "id": "W12 _ActivityType_: Group Meeting",
-        "x": 14,
-        "y": 16,
-        "value": 17,
-        "type": "red"
+        "Name": "W13 _ActivityType_: Group Collaboration Instructions",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -8,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W12 _ActivityType_: Group Collaboration Instructions-2",
-        "x": 14,
-        "y": 17,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W13 _ActivityType_: Group Collaboration",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -9,
+        "Points": 10,
+        "Type": "Discussion"
     },
     {
-        "id": "W12 _ActivityType_: Group Collaboration",
-        "x": 14,
-        "y": 18,
-        "value": 10,
-        "type": "green"
+        "Name": "W13 _ActivityType_: Homework",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -10,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W12 _ActivityType_: Homework-2",
-        "x": 14,
-        "y": 19,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W13 _ActivityType_: Homework",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -11,
+        "Points": 14,
+        "Type": "Quiz"
     },
     {
-        "id": "W12 _ActivityType_: Homework",
-        "x": 14,
-        "y": 20,
-        "value": 10,
-        "type": "red"
+        "Name": "W13 _ActivityType_: PowerPoint Presentation - Instructions",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -12,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W10 Lesson Notes",
-        "x": 12,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
+        "Name": "Lesson 24",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -13,
+        "Points": 0,
+        "Type": "SubHeader"
     },
     {
-        "id": "W10 _ActivityType_: Questions and Conversations",
-        "x": 12,
-        "y": 2,
-        "value": 0,
-        "type": "green"
+        "Name": "W13 _ActivityType_: Individual Preparation-2",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -14,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W10 _ActivityType_: Overview",
-        "x": 12,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W13 _ActivityType_: Group Meeting-2",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -15,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "Lesson 18: Inference for Two Proportions",
-        "x": 12,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W13 _ActivityType_: Group Meeting",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -16,
+        "Points": 47,
+        "Type": "Quiz"
     },
     {
-        "id": "W10 _ActivityType_: Individual Preparation",
-        "x": 12,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W13 _ActivityType_: Homework and Exam Information",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -17,
+        "Points": 0,
+        "Type": "Page"
     },
     {
-        "id": "W10 _ActivityType_: Group Meeting",
-        "x": 12,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
+        "Name": "W13 _ActivityType_: Course Survey - End of Semester",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -18,
+        "Points": 1,
+        "Type": "Quiz"
     },
     {
-        "id": "W10 _ActivityType_: Group Meeting",
-        "x": 12,
-        "y": 7,
-        "value": 21,
-        "type": "red"
-    },
-    {
-        "id": "W10 _ActivityType_: Group Collaboration Instructions",
-        "x": 12,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W10 _ActivityType_: Group Collaboration",
-        "x": 12,
-        "y": 9,
-        "value": 10,
-        "type": "green"
-    },
-    {
-        "id": "W10 _ActivityType_: Homework",
-        "x": 12,
-        "y": 10,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W10 _ActivityType_: Homework",
-        "x": 12,
-        "y": 11,
-        "value": 12,
-        "type": "red"
-    },
-    {
-        "id": "W10 _ActivityType_: IRB Approval Reminder",
-        "x": 12,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W10 _ActivityType_: Collect and Describe the Data - Instructions",
-        "x": 12,
-        "y": 13,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "Lesson 19",
-        "x": 12,
-        "y": 14,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W10 _ActivityType_: Individual Preparation-2",
-        "x": 12,
-        "y": 15,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W10 _ActivityType_: Group Meeting-2",
-        "x": 12,
-        "y": 16,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W10 _ActivityType_: Group Meeting",
-        "x": 12,
-        "y": 17,
-        "value": 16,
-        "type": "red"
-    },
-    {
-        "id": "W10 _ActivityType_: Group Collaboration Instructions-2",
-        "x": 12,
-        "y": 18,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W10 _ActivityType_: Group Collaboration",
-        "x": 12,
-        "y": 19,
-        "value": 10,
-        "type": "green"
-    },
-    {
-        "id": "W10 _ActivityType_: Homework-2",
-        "x": 12,
-        "y": 20,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W10 _ActivityType_: Homework",
-        "x": 12,
-        "y": 21,
-        "value": 11,
-        "type": "red"
-    },
-    {
-        "id": "W13 Lesson Notes",
-        "x": 15,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W13 _ActivityType_: Questions and Conversations",
-        "x": 15,
-        "y": 2,
-        "value": 0,
-        "type": "green"
-    },
-    {
-        "id": "W13 _ActivityType_: Overview",
-        "x": 15,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "Lesson 23: Inference for Bivariate Data",
-        "x": 15,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W13 _ActivityType_: Individual Preparation",
-        "x": 15,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W13 _ActivityType_: Group Meeting",
-        "x": 15,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W13 _ActivityType_: Group Meeting",
-        "x": 15,
-        "y": 7,
-        "value": 18,
-        "type": "red"
-    },
-    {
-        "id": "W13 _ActivityType_: Group Collaboration Instructions",
-        "x": 15,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W13 _ActivityType_: Group Collaboration",
-        "x": 15,
-        "y": 9,
-        "value": 10,
-        "type": "green"
-    },
-    {
-        "id": "W13 _ActivityType_: Homework",
-        "x": 15,
-        "y": 10,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W13 _ActivityType_: Homework",
-        "x": 15,
-        "y": 11,
-        "value": 14,
-        "type": "red"
-    },
-    {
-        "id": "W13 _ActivityType_: PowerPoint Presentation - Instructions",
-        "x": 15,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "Lesson 24",
-        "x": 15,
-        "y": 13,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W13 _ActivityType_: Individual Preparation-2",
-        "x": 15,
-        "y": 14,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W13 _ActivityType_: Group Meeting-2",
-        "x": 15,
-        "y": 15,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W13 _ActivityType_: Group Meeting",
-        "x": 15,
-        "y": 16,
-        "value": 47,
-        "type": "red"
-    },
-    {
-        "id": "W13 _ActivityType_: Homework and Exam Information",
-        "x": 15,
-        "y": 17,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W13 _ActivityType_: Course Survey - End of Semester",
-        "x": 15,
-        "y": 18,
-        "value": 1,
-        "type": "red"
-    },
-    {
-        "id": "W13 _ActivityType_: End of Course Evaluation",
-        "x": 15,
-        "y": 19,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W08 Lesson Notes",
-        "x": 10,
-        "y": 1,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W08 _ActivityType_: Questions and Conversations",
-        "x": 10,
-        "y": 2,
-        "value": 0,
-        "type": "green"
-    },
-    {
-        "id": "W08 _ActivityType_: Overview",
-        "x": 10,
-        "y": 3,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "Lesson 14: Inference for Several Means: ANOVA",
-        "x": 10,
-        "y": 4,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W08 _ActivityType_: Individual Preparation",
-        "x": 10,
-        "y": 5,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W08 _ActivityType_: Group Meeting",
-        "x": 10,
-        "y": 6,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W08 _ActivityType_: Group Meeting",
-        "x": 10,
-        "y": 7,
-        "value": 20,
-        "type": "red"
-    },
-    {
-        "id": "W08 _ActivityType_: Group Collaboration Instructions",
-        "x": 10,
-        "y": 8,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W08 _ActivityType_: Group Collaboration",
-        "x": 10,
-        "y": 9,
-        "value": 10,
-        "type": "green"
-    },
-    {
-        "id": "W08 _ActivityType_: Homework",
-        "x": 10,
-        "y": 10,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W08 _ActivityType_: Homework",
-        "x": 10,
-        "y": 11,
-        "value": 10,
-        "type": "red"
-    },
-    {
-        "id": "Lesson 15",
-        "x": 10,
-        "y": 12,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W08 _ActivityType_: Individual Preparation-2",
-        "x": 10,
-        "y": 13,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W08 _ActivityType_: Group Meeting-2",
-        "x": 10,
-        "y": 14,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W08 _ActivityType_: Group Meeting",
-        "x": 10,
-        "y": 15,
-        "value": 30,
-        "type": "red"
-    },
-    {
-        "id": "W08 _ActivityType_: Homework and Exam Information",
-        "x": 10,
-        "y": 16,
-        "value": 0,
-        "type": "yellow"
-    },
-    {
-        "id": "W08 _ActivityType_: The Unit II Exam",
-        "x": 10,
-        "y": 17,
-        "value": 33,
-        "type": "red"
+        "Name": "W13 _ActivityType_: End of Course Evaluation",
+        "ModulePosition": 15,
+        "Module Name": "Week 13",
+        "Position": -19,
+        "Points": 0,
+        "Type": "ExternalUrl"
+    },
+    {
+        "Name": "W14 Lesson Notes",
+        "ModulePosition": 16,
+        "Module Name": "Week 14",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
+    },
+    {
+        "Name": "W13 _ActivityType_: Questions and Conversations",
+        "ModulePosition": 16,
+        "Module Name": "Week 14",
+        "Position": -2,
+        "Points": 0,
+        "Type": "Discussion"
+    },
+    {
+        "Name": "W14 _ActivityType_: Overview",
+        "ModulePosition": 16,
+        "Module Name": "Week 14",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
+    },
+    {
+        "Name": "The Unit IV Exam",
+        "ModulePosition": 16,
+        "Module Name": "Week 14",
+        "Position": -4,
+        "Points": 0,
+        "Type": "SubHeader"
+    },
+    {
+        "Name": "W14 _ActivityType_: Individual Preparation",
+        "ModulePosition": 16,
+        "Module Name": "Week 14",
+        "Position": -5,
+        "Points": 0,
+        "Type": "Page"
+    },
+    {
+        "Name": "W14 _ActivityType_: Group Meeting",
+        "ModulePosition": 16,
+        "Module Name": "Week 14",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Page"
+    },
+    {
+        "Name": "W14 _ActivityType_: Homework",
+        "ModulePosition": 16,
+        "Module Name": "Week 14",
+        "Position": -7,
+        "Points": 0,
+        "Type": "Page"
+    },
+    {
+        "Name": "W14 _ActivityType_: Knowledge Survey - End of Semester",
+        "ModulePosition": 16,
+        "Module Name": "Week 14",
+        "Position": -8,
+        "Points": 1,
+        "Type": "Quiz"
+    },
+    {
+        "Name": "W14 _ActivityType_: The Unit IV Exam",
+        "ModulePosition": 16,
+        "Module Name": "Week 14",
+        "Position": -9,
+        "Points": 40,
+        "Type": "Quiz"
+    },
+    {
+        "Name": "W _ActivityType_: Final Project Overview",
+        "ModulePosition": 17,
+        "Module Name": "Final Project",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page"
+    },
+    {
+        "Name": "W _ActivityType_: Final Project Rubric",
+        "ModulePosition": 17,
+        "Module Name": "Final Project",
+        "Position": -2,
+        "Points": 0,
+        "Type": "File"
+    },
+    {
+        "Name": "W _ActivityType_: Evaluation - Instructions",
+        "ModulePosition": 17,
+        "Module Name": "Final Project",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page"
     }
 ]
