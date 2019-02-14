@@ -1,9 +1,10 @@
-
 const fs = require('fs');
 const canvas = require('canvas-api-wrapper');
 const prompt = require('prompt');
 const asyncLib = require('async');
-const { promisify } = require('util');
+const {
+    promisify
+} = require('util');
 const asyncReduce = promisify(asyncLib.reduce);
 
 /* Prompts the user for the course Id and calls the main function to run, passing that value */
@@ -12,7 +13,7 @@ function retrieveInput() {
 
     prompt.get('CourseID', (err, result) => {
         runTool(result.CourseID);
-    })
+    });
 }
 
 /* Makes an API call to Canvas to get all modules in the course */
@@ -22,7 +23,9 @@ async function retrieveModules(courseId) {
 
 /* Makes an API call to Canvas to get all module items in the course */
 async function retrieveModuleItems(courseId, moduleId) {
-    return await canvas.get(`/api/v1/courses/${courseId}/modules/${moduleId}/items`, { "include[]": "content_details" });
+    return await canvas.get(`/api/v1/courses/${courseId}/modules/${moduleId}/items`, {
+        "include[]": "content_details"
+    });
 }
 
 /* Main function that runs the whole show */
@@ -55,7 +58,8 @@ async function runTool(courseId) {
                 moduleItem.moduleName = moduleIn.name;
                 moduleItem.modulePosition = moduleIn.position;
                 return moduleItem;
-            })
+            });
+
         return acc.concat(moduleItems);
     });
 
