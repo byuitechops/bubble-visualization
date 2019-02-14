@@ -1,115 +1,12 @@
 [
     {
-        "Name": "Standard Resources",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -1,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Course Evaluation",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -2,
-        "Points": 0,
-        "Type": "ExternalUrl"
-    },
-    {
-        "Name": "Totally Not A Pikachu Music Video",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -3,
-        "Points": 0,
-        "Type": "ExternalUrl"
-    },
-    {
-        "Name": "W General Lesson Notes",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -4,
-        "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "W _ActivityType_: Release Notes",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -5,
-        "Points": 0,
-        "Type": "ExternalUrl"
-    },
-    {
-        "Name": "W _ActivityType_: Design Workbook",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -6,
-        "Points": 0,
-        "Type": "ExternalUrl"
-    },
-    {
-        "Name": "W _ActivityType_: Teaching Group Directory",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -7,
-        "Points": 0,
-        "Type": "ExternalUrl"
-    },
-    {
-        "Name": "W _ActivityType_: Online Instructor Community",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -8,
-        "Points": 0,
-        "Type": "ExternalUrl"
-    },
-    {
-        "Name": "Supplemental Resources",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -9,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "W _ActivityType_: Teaching Assistant Notes",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -10,
-        "Points": 0,
-        "Type": "ExternalUrl"
-    },
-    {
-        "Name": "W _ActivityType_: -Setup Notes & Course Settings",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -11,
-        "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "W _ActivityType_: Instructor Help Guide: Getting Started with Zoom",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -12,
-        "Points": 0,
-        "Type": "ExternalUrl"
-    },
-    {
         "Name": "Lesson Notes (Do NOT Publish)",
         "ModulePosition": 2,
         "Module Name": "Week 01",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 01: Course Introduction",
-        "ModulePosition": 2,
-        "Module Name": "Week 01",
-        "Position": -2,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908478"
     },
     {
         "Name": "Orientation to Online Learning",
@@ -117,7 +14,8 @@
         "Module Name": "Week 01",
         "Position": -3,
         "Points": 0,
-        "Type": "ExternalUrl"
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/16584/modules#module_149689"
     },
     {
         "Name": "W01 _ActivityType_: Overview",
@@ -125,7 +23,8 @@
         "Module Name": "Week 01",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908481"
     },
     {
         "Name": "W01 _ActivityType_: Introduction",
@@ -133,7 +32,8 @@
         "Module Name": "Week 01",
         "Position": -5,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908482"
     },
     {
         "Name": "W01 _ActivityType_: Homework",
@@ -141,7 +41,8 @@
         "Module Name": "Week 01",
         "Position": -6,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908483"
     },
     {
         "Name": "W01 Quiz: Homework",
@@ -149,7 +50,8 @@
         "Module Name": "Week 01",
         "Position": -7,
         "Points": 6,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908484"
     },
     {
         "Name": "W01 Quiz: Course Survey - Start of Semester",
@@ -157,7 +59,8 @@
         "Module Name": "Week 01",
         "Position": -8,
         "Points": 1,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908485"
     },
     {
         "Name": "W01 Quiz: Knowledge Survey - Start of Semester",
@@ -165,15 +68,8 @@
         "Module Name": "Week 01",
         "Position": -9,
         "Points": 1,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Technology Folder",
-        "ModulePosition": 2,
-        "Module Name": "Week 01",
-        "Position": -10,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908486"
     },
     {
         "Name": "W01 _ActivityType_: Group Sign Ups Instructions For Teacher",
@@ -181,7 +77,8 @@
         "Module Name": "Week 01",
         "Position": -11,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908488"
     },
     {
         "Name": "W01 _ActivityType_: Group Sign Ups",
@@ -189,7 +86,8 @@
         "Module Name": "Week 01",
         "Position": -12,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908489"
     },
     {
         "Name": "W01 _ActivityType_: Setup Google Account",
@@ -197,7 +95,8 @@
         "Module Name": "Week 01",
         "Position": -13,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908490"
     },
     {
         "Name": "W01 _ActivityType_: Google Activity Instructions",
@@ -205,7 +104,8 @@
         "Module Name": "Week 01",
         "Position": -14,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908491"
     },
     {
         "Name": "W01 Discussion: Google Activity",
@@ -213,7 +113,8 @@
         "Module Name": "Week 01",
         "Position": -15,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908492"
     },
     {
         "Name": "W01 _ActivityType_: Software Setup",
@@ -221,31 +122,8 @@
         "Module Name": "Week 01",
         "Position": -16,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 2,
-        "Module Name": "Week 01",
-        "Position": -17,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 2,
-        "Module Name": "Week 01",
-        "Position": -18,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 2,
-        "Module Name": "Week 01",
-        "Position": -19,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908493"
     },
     {
         "Name": "W02 _ActivityType_: Overview",
@@ -253,15 +131,8 @@
         "Module Name": "Week 02",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 02",
-        "ModulePosition": 3,
-        "Module Name": "Week 02",
-        "Position": -2,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908497"
     },
     {
         "Name": "W02 _ActivityType_: Individual Preparation",
@@ -269,7 +140,8 @@
         "Module Name": "Week 02",
         "Position": -3,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908499"
     },
     {
         "Name": "W02 _ActivityType_: Group Meeting",
@@ -277,7 +149,8 @@
         "Module Name": "Week 02",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908500"
     },
     {
         "Name": "W02 Quiz: Group Meeting",
@@ -285,7 +158,8 @@
         "Module Name": "Week 02",
         "Position": -5,
         "Points": 17,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908501"
     },
     {
         "Name": "W02 _ActivityType_: Homework",
@@ -293,7 +167,8 @@
         "Module Name": "Week 02",
         "Position": -6,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908502"
     },
     {
         "Name": "W02 Quiz: Homework",
@@ -301,7 +176,8 @@
         "Module Name": "Week 02",
         "Position": -7,
         "Points": 10,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908503"
     },
     {
         "Name": "W02 Discussion: Group Collaboration",
@@ -309,15 +185,8 @@
         "Module Name": "Week 02",
         "Position": -8,
         "Points": 0,
-        "Type": "Discussion"
-    },
-    {
-        "Name": "Lesson 03",
-        "ModulePosition": 3,
-        "Module Name": "Week 02",
-        "Position": -9,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908504"
     },
     {
         "Name": "W03 _ActivityType_: Individual Preparation",
@@ -325,7 +194,8 @@
         "Module Name": "Week 02",
         "Position": -10,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908506"
     },
     {
         "Name": "W03 _ActivityType_: Group Meeting",
@@ -333,7 +203,8 @@
         "Module Name": "Week 02",
         "Position": -11,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908507"
     },
     {
         "Name": "W02 Quiz: Group Meeting",
@@ -341,7 +212,8 @@
         "Module Name": "Week 02",
         "Position": -12,
         "Points": 18,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908508"
     },
     {
         "Name": "W03 _ActivityType_: Homework",
@@ -349,7 +221,8 @@
         "Module Name": "Week 02",
         "Position": -13,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908509"
     },
     {
         "Name": "W02 Quiz: Homework",
@@ -357,7 +230,8 @@
         "Module Name": "Week 02",
         "Position": -14,
         "Points": 10,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908510"
     },
     {
         "Name": "W02 Discussion: Group Collaboration",
@@ -365,31 +239,8 @@
         "Module Name": "Week 02",
         "Position": -15,
         "Points": 0,
-        "Type": "Discussion"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 3,
-        "Module Name": "Week 02",
-        "Position": -16,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 3,
-        "Module Name": "Week 02",
-        "Position": -17,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 3,
-        "Module Name": "Week 02",
-        "Position": -18,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908511"
     },
     {
         "Name": "Lesson Notes (Do NOT Publish)-2",
@@ -397,7 +248,8 @@
         "Module Name": "Week 03",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908515"
     },
     {
         "Name": "W03 _ActivityType_: Overview",
@@ -405,15 +257,8 @@
         "Module Name": "Week 03",
         "Position": -2,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 04: Probability; Discrete Random Variables",
-        "ModulePosition": 4,
-        "Module Name": "Week 03",
-        "Position": -3,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908516"
     },
     {
         "Name": "W04 _ActivityType_: Individual Preparation",
@@ -421,7 +266,8 @@
         "Module Name": "Week 03",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908518"
     },
     {
         "Name": "W04 _ActivityType_: Group Meeting",
@@ -429,7 +275,8 @@
         "Module Name": "Week 03",
         "Position": -5,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908519"
     },
     {
         "Name": "W03 Quiz: Group Meeting",
@@ -437,7 +284,8 @@
         "Module Name": "Week 03",
         "Position": -6,
         "Points": 15,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908520"
     },
     {
         "Name": "W04 _ActivityType_: Group Collaboration Instructions",
@@ -445,7 +293,8 @@
         "Module Name": "Week 03",
         "Position": -7,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908521"
     },
     {
         "Name": "W03 Discussion: Group Collaboration",
@@ -453,7 +302,8 @@
         "Module Name": "Week 03",
         "Position": -8,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908522"
     },
     {
         "Name": "W04 _ActivityType_: Homework",
@@ -461,7 +311,8 @@
         "Module Name": "Week 03",
         "Position": -9,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908523"
     },
     {
         "Name": "W03 Quiz: Homework",
@@ -469,15 +320,8 @@
         "Module Name": "Week 03",
         "Position": -10,
         "Points": 7,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Lesson 05: Normal Distributions",
-        "ModulePosition": 4,
-        "Module Name": "Week 03",
-        "Position": -11,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908524"
     },
     {
         "Name": "W05 _ActivityType_: Individual Preparation",
@@ -485,7 +329,8 @@
         "Module Name": "Week 03",
         "Position": -12,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908526"
     },
     {
         "Name": "W05 _ActivityType_: Group Meeting",
@@ -493,7 +338,8 @@
         "Module Name": "Week 03",
         "Position": -13,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908527"
     },
     {
         "Name": "W03 Quiz: Group Meeting",
@@ -501,7 +347,8 @@
         "Module Name": "Week 03",
         "Position": -14,
         "Points": 20,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908528"
     },
     {
         "Name": "W05 _ActivityType_: Group Collaboration Instructions",
@@ -509,7 +356,8 @@
         "Module Name": "Week 03",
         "Position": -15,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908529"
     },
     {
         "Name": "W03 Discussion: Group Collaboration",
@@ -517,7 +365,8 @@
         "Module Name": "Week 03",
         "Position": -16,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908530"
     },
     {
         "Name": "W05 _ActivityType_: Homework",
@@ -525,7 +374,8 @@
         "Module Name": "Week 03",
         "Position": -17,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908531"
     },
     {
         "Name": "W03 Quiz: Homework",
@@ -533,31 +383,8 @@
         "Module Name": "Week 03",
         "Position": -18,
         "Points": 10,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 4,
-        "Module Name": "Week 03",
-        "Position": -19,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 4,
-        "Module Name": "Week 03",
-        "Position": -20,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 4,
-        "Module Name": "Week 03",
-        "Position": -21,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908532"
     },
     {
         "Name": "Lesson Notes (Do NOT Publish)-3",
@@ -565,7 +392,8 @@
         "Module Name": "Week 04",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908536"
     },
     {
         "Name": "W04 _ActivityType_: Overview",
@@ -573,15 +401,8 @@
         "Module Name": "Week 04",
         "Position": -2,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 06",
-        "ModulePosition": 5,
-        "Module Name": "Week 04",
-        "Position": -3,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908537"
     },
     {
         "Name": "W06 _ActivityType_: Individual Preparation",
@@ -589,7 +410,8 @@
         "Module Name": "Week 04",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908539"
     },
     {
         "Name": "W06 _ActivityType_: Group Meeting",
@@ -597,7 +419,8 @@
         "Module Name": "Week 04",
         "Position": -5,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908540"
     },
     {
         "Name": "W04 Quiz: Group Meeting",
@@ -605,7 +428,8 @@
         "Module Name": "Week 04",
         "Position": -6,
         "Points": 14,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908541"
     },
     {
         "Name": "W06 _ActivityType_: Group Collaboration Instructions",
@@ -613,7 +437,8 @@
         "Module Name": "Week 04",
         "Position": -7,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908542"
     },
     {
         "Name": "W04 Discussion: Group Collaboration",
@@ -621,7 +446,8 @@
         "Module Name": "Week 04",
         "Position": -8,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908543"
     },
     {
         "Name": "W06 _ActivityType_: Homework",
@@ -629,7 +455,8 @@
         "Module Name": "Week 04",
         "Position": -9,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908544"
     },
     {
         "Name": "W04 Quiz: Homework",
@@ -637,15 +464,8 @@
         "Module Name": "Week 04",
         "Position": -10,
         "Points": 10,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Lesson 07",
-        "ModulePosition": 5,
-        "Module Name": "Week 04",
-        "Position": -11,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908545"
     },
     {
         "Name": "W07 _ActivityType_: Individual Preparation",
@@ -653,7 +473,8 @@
         "Module Name": "Week 04",
         "Position": -12,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908547"
     },
     {
         "Name": "W07 _ActivityType_: Group Meeting",
@@ -661,7 +482,8 @@
         "Module Name": "Week 04",
         "Position": -13,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908548"
     },
     {
         "Name": "W04 Quiz: Group Meeting",
@@ -669,7 +491,8 @@
         "Module Name": "Week 04",
         "Position": -14,
         "Points": 17,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908549"
     },
     {
         "Name": "W07 _ActivityType_: Group Collaboration Instructions",
@@ -677,7 +500,8 @@
         "Module Name": "Week 04",
         "Position": -15,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908550"
     },
     {
         "Name": "W04 Discussion: Group Collaboration",
@@ -685,7 +509,8 @@
         "Module Name": "Week 04",
         "Position": -16,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908551"
     },
     {
         "Name": "W07 _ActivityType_: Homework",
@@ -693,7 +518,8 @@
         "Module Name": "Week 04",
         "Position": -17,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908552"
     },
     {
         "Name": "W04 Quiz: Homework",
@@ -701,31 +527,8 @@
         "Module Name": "Week 04",
         "Position": -18,
         "Points": 10,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 5,
-        "Module Name": "Week 04",
-        "Position": -19,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 5,
-        "Module Name": "Week 04",
-        "Position": -20,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 5,
-        "Module Name": "Week 04",
-        "Position": -21,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908553"
     },
     {
         "Name": "Lesson Notes (Do NOT Publish)-4",
@@ -733,7 +536,8 @@
         "Module Name": "Week 05",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908557"
     },
     {
         "Name": "W05 _ActivityType_: Overview",
@@ -741,15 +545,8 @@
         "Module Name": "Week 05",
         "Position": -2,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 08",
-        "ModulePosition": 6,
-        "Module Name": "Week 05",
-        "Position": -3,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908558"
     },
     {
         "Name": "W08 _ActivityType_: Individual Preparation",
@@ -757,7 +554,8 @@
         "Module Name": "Week 05",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908560"
     },
     {
         "Name": "W08 _ActivityType_: Group Meeting",
@@ -765,7 +563,8 @@
         "Module Name": "Week 05",
         "Position": -5,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908561"
     },
     {
         "Name": "W05 Quiz: Group Meeting",
@@ -773,7 +572,8 @@
         "Module Name": "Week 05",
         "Position": -6,
         "Points": 31,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908562"
     },
     {
         "Name": "W08 _ActivityType_: Homework and Exam Information",
@@ -781,7 +581,8 @@
         "Module Name": "Week 05",
         "Position": -7,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908563"
     },
     {
         "Name": "W05 Quiz: The Unit I Exam",
@@ -789,15 +590,8 @@
         "Module Name": "Week 05",
         "Position": -8,
         "Points": 33,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Lesson 09",
-        "ModulePosition": 6,
-        "Module Name": "Week 05",
-        "Position": -9,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908564"
     },
     {
         "Name": "W09 _ActivityType_: Individual Preparation",
@@ -805,7 +599,8 @@
         "Module Name": "Week 05",
         "Position": -10,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908566"
     },
     {
         "Name": "W05 _ActivityType_: Lesson 09 Group Meeting",
@@ -813,7 +608,8 @@
         "Module Name": "Week 05",
         "Position": -11,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908567"
     },
     {
         "Name": "W05 Quiz: Group Meeting",
@@ -821,7 +617,8 @@
         "Module Name": "Week 05",
         "Position": -12,
         "Points": 23,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908568"
     },
     {
         "Name": "W09 _ActivityType_: Group Collaboration Instructions",
@@ -829,7 +626,8 @@
         "Module Name": "Week 05",
         "Position": -13,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908569"
     },
     {
         "Name": "W09 Discussion: Lesson 09 Group Collaboration",
@@ -837,7 +635,8 @@
         "Module Name": "Week 05",
         "Position": -14,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908570"
     },
     {
         "Name": "W09 _ActivityType_: Homework",
@@ -845,7 +644,8 @@
         "Module Name": "Week 05",
         "Position": -15,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908571"
     },
     {
         "Name": "W05 Quiz: Homework",
@@ -853,31 +653,8 @@
         "Module Name": "Week 05",
         "Position": -16,
         "Points": 10,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 6,
-        "Module Name": "Week 05",
-        "Position": -17,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 6,
-        "Module Name": "Week 05",
-        "Position": -18,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 6,
-        "Module Name": "Week 05",
-        "Position": -19,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908572"
     },
     {
         "Name": "Lesson Notes (Do NOT Publish)-5",
@@ -885,7 +662,8 @@
         "Module Name": "Week 06",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908576"
     },
     {
         "Name": "W06 _ActivityType_: Overview",
@@ -893,15 +671,8 @@
         "Module Name": "Week 06",
         "Position": -2,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 10",
-        "ModulePosition": 7,
-        "Module Name": "Week 06",
-        "Position": -3,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908577"
     },
     {
         "Name": "W10 _ActivityType_: Individual Preparation",
@@ -909,7 +680,8 @@
         "Module Name": "Week 06",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908579"
     },
     {
         "Name": "W10 _ActivityType_: Group Meeting",
@@ -917,7 +689,8 @@
         "Module Name": "Week 06",
         "Position": -5,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908580"
     },
     {
         "Name": "W06 Quiz: Group Meeting",
@@ -925,7 +698,8 @@
         "Module Name": "Week 06",
         "Position": -6,
         "Points": 14,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908581"
     },
     {
         "Name": "W10 _ActivityType_: Group Collaboration Instructions",
@@ -933,7 +707,8 @@
         "Module Name": "Week 06",
         "Position": -7,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908582"
     },
     {
         "Name": "W06 Discussion: Group Collaboration",
@@ -941,7 +716,8 @@
         "Module Name": "Week 06",
         "Position": -8,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908583"
     },
     {
         "Name": "W10 _ActivityType_: Homework",
@@ -949,7 +725,8 @@
         "Module Name": "Week 06",
         "Position": -9,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908584"
     },
     {
         "Name": "W06 Quiz: Homework",
@@ -957,15 +734,8 @@
         "Module Name": "Week 06",
         "Position": -10,
         "Points": 13,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Lesson 11",
-        "ModulePosition": 7,
-        "Module Name": "Week 06",
-        "Position": -11,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908585"
     },
     {
         "Name": "W11 _ActivityType_: Individual Preparation",
@@ -973,7 +743,8 @@
         "Module Name": "Week 06",
         "Position": -12,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908587"
     },
     {
         "Name": "W11 _ActivityType_: Group Meeting",
@@ -981,7 +752,8 @@
         "Module Name": "Week 06",
         "Position": -13,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908588"
     },
     {
         "Name": "W06 Quiz: Group Meeting",
@@ -989,7 +761,8 @@
         "Module Name": "Week 06",
         "Position": -14,
         "Points": 17,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908589"
     },
     {
         "Name": "W11 _ActivityType_: Group Collaboration Instructions",
@@ -997,7 +770,8 @@
         "Module Name": "Week 06",
         "Position": -15,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908590"
     },
     {
         "Name": "W06 Discussion: Group Collaboration",
@@ -1005,7 +779,8 @@
         "Module Name": "Week 06",
         "Position": -16,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908591"
     },
     {
         "Name": "W11 _ActivityType_: Homework",
@@ -1013,7 +788,8 @@
         "Module Name": "Week 06",
         "Position": -17,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908592"
     },
     {
         "Name": "W06 Quiz: Homework",
@@ -1021,31 +797,8 @@
         "Module Name": "Week 06",
         "Position": -18,
         "Points": 11,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 7,
-        "Module Name": "Week 06",
-        "Position": -19,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 7,
-        "Module Name": "Week 06",
-        "Position": -20,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 7,
-        "Module Name": "Week 06",
-        "Position": -21,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908593"
     },
     {
         "Name": "Lesson Notes (Do NOT Publish)-6",
@@ -1053,7 +806,8 @@
         "Module Name": "Week 07",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908597"
     },
     {
         "Name": "W07 _ActivityType_: Overview",
@@ -1061,15 +815,8 @@
         "Module Name": "Week 07",
         "Position": -2,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 12",
-        "ModulePosition": 8,
-        "Module Name": "Week 07",
-        "Position": -3,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908598"
     },
     {
         "Name": "W12 _ActivityType_: Individual Preparation",
@@ -1077,7 +824,8 @@
         "Module Name": "Week 07",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908600"
     },
     {
         "Name": "W12 _ActivityType_: Group Meeting",
@@ -1085,7 +833,8 @@
         "Module Name": "Week 07",
         "Position": -5,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908601"
     },
     {
         "Name": "W07 Quiz: Group Meeting",
@@ -1093,7 +842,8 @@
         "Module Name": "Week 07",
         "Position": -6,
         "Points": 20,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908602"
     },
     {
         "Name": "W12 _ActivityType_: Group Collaboration Instructions",
@@ -1101,7 +851,8 @@
         "Module Name": "Week 07",
         "Position": -7,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908603"
     },
     {
         "Name": "W07 Discussion: Group Collaboration",
@@ -1109,7 +860,8 @@
         "Module Name": "Week 07",
         "Position": -8,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908604"
     },
     {
         "Name": "W12 _ActivityType_: Homework",
@@ -1117,7 +869,8 @@
         "Module Name": "Week 07",
         "Position": -9,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908605"
     },
     {
         "Name": "W07 Quiz: Homework",
@@ -1125,15 +878,8 @@
         "Module Name": "Week 07",
         "Position": -10,
         "Points": 12,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Lesson 13",
-        "ModulePosition": 8,
-        "Module Name": "Week 07",
-        "Position": -11,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908606"
     },
     {
         "Name": "W13 _ActivityType_: Individual Preparation",
@@ -1141,7 +887,8 @@
         "Module Name": "Week 07",
         "Position": -12,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908608"
     },
     {
         "Name": "W13 _ActivityType_: Group Meeting",
@@ -1149,7 +896,8 @@
         "Module Name": "Week 07",
         "Position": -13,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908609"
     },
     {
         "Name": "W07 Quiz: Group Meeting",
@@ -1157,7 +905,8 @@
         "Module Name": "Week 07",
         "Position": -14,
         "Points": 19,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908610"
     },
     {
         "Name": "W13 _ActivityType_: Group Collaboration Instructions",
@@ -1165,7 +914,8 @@
         "Module Name": "Week 07",
         "Position": -15,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908611"
     },
     {
         "Name": "W07 Discussion: Group Collaboration",
@@ -1173,7 +923,8 @@
         "Module Name": "Week 07",
         "Position": -16,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908612"
     },
     {
         "Name": "W13 _ActivityType_: Homework",
@@ -1181,7 +932,8 @@
         "Module Name": "Week 07",
         "Position": -17,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908613"
     },
     {
         "Name": "W07 Quiz: Homework",
@@ -1189,31 +941,8 @@
         "Module Name": "Week 07",
         "Position": -18,
         "Points": 11,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 8,
-        "Module Name": "Week 07",
-        "Position": -19,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 8,
-        "Module Name": "Week 07",
-        "Position": -20,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 8,
-        "Module Name": "Week 07",
-        "Position": -21,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908614"
     },
     {
         "Name": "Lesson Notes (Do NOT Publish)-7",
@@ -1221,7 +950,8 @@
         "Module Name": "Week 08",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908618"
     },
     {
         "Name": "W08 _ActivityType_: Overview",
@@ -1229,15 +959,8 @@
         "Module Name": "Week 08",
         "Position": -2,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 14: Inference for Several Means: ANOVA",
-        "ModulePosition": 9,
-        "Module Name": "Week 08",
-        "Position": -3,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908619"
     },
     {
         "Name": "W14 _ActivityType_: Individual Preparation",
@@ -1245,7 +968,8 @@
         "Module Name": "Week 08",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908621"
     },
     {
         "Name": "W14 _ActivityType_: Group Meeting",
@@ -1253,7 +977,8 @@
         "Module Name": "Week 08",
         "Position": -5,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908622"
     },
     {
         "Name": "W08 Quiz: Group Meeting",
@@ -1261,7 +986,8 @@
         "Module Name": "Week 08",
         "Position": -6,
         "Points": 20,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908623"
     },
     {
         "Name": "W14 _ActivityType_: Group Collaboration Instructions",
@@ -1269,7 +995,8 @@
         "Module Name": "Week 08",
         "Position": -7,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908624"
     },
     {
         "Name": "W08 Discussion: Group Collaboration",
@@ -1277,7 +1004,8 @@
         "Module Name": "Week 08",
         "Position": -8,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908625"
     },
     {
         "Name": "W14 _ActivityType_: Homework",
@@ -1285,7 +1013,8 @@
         "Module Name": "Week 08",
         "Position": -9,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908626"
     },
     {
         "Name": "W08 Quiz: Homework",
@@ -1293,15 +1022,8 @@
         "Module Name": "Week 08",
         "Position": -10,
         "Points": 10,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Lesson 15",
-        "ModulePosition": 9,
-        "Module Name": "Week 08",
-        "Position": -11,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908627"
     },
     {
         "Name": "W15 _ActivityType_: Individual Preparation",
@@ -1309,7 +1031,8 @@
         "Module Name": "Week 08",
         "Position": -12,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908629"
     },
     {
         "Name": "W15 _ActivityType_: Group Meeting",
@@ -1317,7 +1040,8 @@
         "Module Name": "Week 08",
         "Position": -13,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908630"
     },
     {
         "Name": "W08 Quiz: Group Meeting",
@@ -1325,7 +1049,8 @@
         "Module Name": "Week 08",
         "Position": -14,
         "Points": 30,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908631"
     },
     {
         "Name": "W15 _ActivityType_: Homework and Exam Information",
@@ -1333,7 +1058,8 @@
         "Module Name": "Week 08",
         "Position": -15,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908632"
     },
     {
         "Name": "W08 Quiz: The Unit II Exam",
@@ -1341,31 +1067,8 @@
         "Module Name": "Week 08",
         "Position": -16,
         "Points": 33,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 9,
-        "Module Name": "Week 08",
-        "Position": -17,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 9,
-        "Module Name": "Week 08",
-        "Position": -18,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 9,
-        "Module Name": "Week 08",
-        "Position": -19,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908633"
     },
     {
         "Name": "Lesson Notes (Do NOT Publish)-8",
@@ -1373,7 +1076,8 @@
         "Module Name": "Week 09",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908637"
     },
     {
         "Name": "W09 _ActivityType_: Overview",
@@ -1381,15 +1085,8 @@
         "Module Name": "Week 09",
         "Position": -2,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 16",
-        "ModulePosition": 10,
-        "Module Name": "Week 09",
-        "Position": -3,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908638"
     },
     {
         "Name": "W16 _ActivityType_: Individual Preparation",
@@ -1397,7 +1094,8 @@
         "Module Name": "Week 09",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908640"
     },
     {
         "Name": "W16 _ActivityType_: Group Meeting",
@@ -1405,7 +1103,8 @@
         "Module Name": "Week 09",
         "Position": -5,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908641"
     },
     {
         "Name": "W09 Quiz: Group Meeting",
@@ -1413,7 +1112,8 @@
         "Module Name": "Week 09",
         "Position": -6,
         "Points": 18,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908642"
     },
     {
         "Name": "W16 _ActivityType_: Group Collaboration Instructions",
@@ -1421,7 +1121,8 @@
         "Module Name": "Week 09",
         "Position": -7,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908643"
     },
     {
         "Name": "W09 Discussion: Group Collaboration",
@@ -1429,7 +1130,8 @@
         "Module Name": "Week 09",
         "Position": -8,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908644"
     },
     {
         "Name": "W16 _ActivityType_: Homework",
@@ -1437,7 +1139,8 @@
         "Module Name": "Week 09",
         "Position": -9,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908645"
     },
     {
         "Name": "W09 Quiz: Homework",
@@ -1445,7 +1148,8 @@
         "Module Name": "Week 09",
         "Position": -10,
         "Points": 10,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908646"
     },
     {
         "Name": "W09 _ActivityType_: Design the Study - Instructions",
@@ -1453,7 +1157,8 @@
         "Module Name": "Week 09",
         "Position": -11,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908647"
     },
     {
         "Name": "W09 Quiz: Design the Study Self-Report",
@@ -1461,15 +1166,8 @@
         "Module Name": "Week 09",
         "Position": -12,
         "Points": 3,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Lesson 17: Inference for One Proportion",
-        "ModulePosition": 10,
-        "Module Name": "Week 09",
-        "Position": -13,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908648"
     },
     {
         "Name": "W17 _ActivityType_: Individual Preparation",
@@ -1477,7 +1175,8 @@
         "Module Name": "Week 09",
         "Position": -14,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908650"
     },
     {
         "Name": "W17 _ActivityType_: Group Meeting",
@@ -1485,7 +1184,8 @@
         "Module Name": "Week 09",
         "Position": -15,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908651"
     },
     {
         "Name": "W09 Quiz: Group Meeting",
@@ -1493,7 +1193,8 @@
         "Module Name": "Week 09",
         "Position": -16,
         "Points": 19,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908652"
     },
     {
         "Name": "W17 _ActivityType_: Group Collaboration Instructions",
@@ -1501,7 +1202,8 @@
         "Module Name": "Week 09",
         "Position": -17,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908653"
     },
     {
         "Name": "W09 Discussion: Group Collaboration",
@@ -1509,7 +1211,8 @@
         "Module Name": "Week 09",
         "Position": -18,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908654"
     },
     {
         "Name": "W17 _ActivityType_: Homework",
@@ -1517,7 +1220,8 @@
         "Module Name": "Week 09",
         "Position": -19,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908655"
     },
     {
         "Name": "W09 Quiz: Homework",
@@ -1525,31 +1229,8 @@
         "Module Name": "Week 09",
         "Position": -20,
         "Points": 11,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 10,
-        "Module Name": "Week 09",
-        "Position": -21,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 10,
-        "Module Name": "Week 09",
-        "Position": -22,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 10,
-        "Module Name": "Week 09",
-        "Position": -23,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908656"
     },
     {
         "Name": "W10 _ActivityType_: Overview",
@@ -1557,15 +1238,8 @@
         "Module Name": "Week 10",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 18: Inference for Two Proportions",
-        "ModulePosition": 11,
-        "Module Name": "Week 10",
-        "Position": -2,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908660"
     },
     {
         "Name": "W18 _ActivityType_: Individual Preparation",
@@ -1573,7 +1247,8 @@
         "Module Name": "Week 10",
         "Position": -3,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908662"
     },
     {
         "Name": "W18 _ActivityType_: Group Meeting",
@@ -1581,7 +1256,8 @@
         "Module Name": "Week 10",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908663"
     },
     {
         "Name": "W10 Quiz: Group Meeting",
@@ -1589,7 +1265,8 @@
         "Module Name": "Week 10",
         "Position": -5,
         "Points": 21,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908664"
     },
     {
         "Name": "W18 _ActivityType_: Group Collaboration Instructions",
@@ -1597,7 +1274,8 @@
         "Module Name": "Week 10",
         "Position": -6,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908665"
     },
     {
         "Name": "W10 Discussion: Group Collaboration",
@@ -1605,7 +1283,8 @@
         "Module Name": "Week 10",
         "Position": -7,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908666"
     },
     {
         "Name": "W18 _ActivityType_: Homework",
@@ -1613,7 +1292,8 @@
         "Module Name": "Week 10",
         "Position": -8,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908667"
     },
     {
         "Name": "W10 Quiz: Homework",
@@ -1621,7 +1301,8 @@
         "Module Name": "Week 10",
         "Position": -9,
         "Points": 12,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908668"
     },
     {
         "Name": "W10 _ActivityType_: IRB Approval Reminder",
@@ -1629,7 +1310,8 @@
         "Module Name": "Week 10",
         "Position": -10,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908669"
     },
     {
         "Name": "W10 _ActivityType_: Collect and Describe the Data - Instructions",
@@ -1637,15 +1319,8 @@
         "Module Name": "Week 10",
         "Position": -11,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 19",
-        "ModulePosition": 11,
-        "Module Name": "Week 10",
-        "Position": -12,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908670"
     },
     {
         "Name": "W19 _ActivityType_: Individual Preparation",
@@ -1653,7 +1328,8 @@
         "Module Name": "Week 10",
         "Position": -13,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908672"
     },
     {
         "Name": "W19 _ActivityType_: Group Meeting",
@@ -1661,7 +1337,8 @@
         "Module Name": "Week 10",
         "Position": -14,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908673"
     },
     {
         "Name": "W10 Quiz: Group Meeting",
@@ -1669,7 +1346,8 @@
         "Module Name": "Week 10",
         "Position": -15,
         "Points": 16,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908674"
     },
     {
         "Name": "W19 _ActivityType_: Group Collaboration Instructions",
@@ -1677,7 +1355,8 @@
         "Module Name": "Week 10",
         "Position": -16,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908675"
     },
     {
         "Name": "W10 Discussion: Group Collaboration",
@@ -1685,7 +1364,8 @@
         "Module Name": "Week 10",
         "Position": -17,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908676"
     },
     {
         "Name": "W19 _ActivityType_: Homework",
@@ -1693,7 +1373,8 @@
         "Module Name": "Week 10",
         "Position": -18,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908677"
     },
     {
         "Name": "W10 Quiz: Homework",
@@ -1701,31 +1382,8 @@
         "Module Name": "Week 10",
         "Position": -19,
         "Points": 11,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 11,
-        "Module Name": "Week 10",
-        "Position": -20,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 11,
-        "Module Name": "Week 10",
-        "Position": -21,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 11,
-        "Module Name": "Week 10",
-        "Position": -22,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908678"
     },
     {
         "Name": "Lesson Notes (Do NOT Publish)-9",
@@ -1733,7 +1391,8 @@
         "Module Name": "Week 11",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908682"
     },
     {
         "Name": "W11 _ActivityType_: Overview",
@@ -1741,15 +1400,8 @@
         "Module Name": "Week 11",
         "Position": -2,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 20",
-        "ModulePosition": 12,
-        "Module Name": "Week 11",
-        "Position": -3,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908683"
     },
     {
         "Name": "W20 _ActivityType_: Individual Preparation",
@@ -1757,7 +1409,8 @@
         "Module Name": "Week 11",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908685"
     },
     {
         "Name": "W20 _ActivityType_: Group Meeting",
@@ -1765,7 +1418,8 @@
         "Module Name": "Week 11",
         "Position": -5,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908686"
     },
     {
         "Name": "W11 Quiz: Group Meeting",
@@ -1773,7 +1427,8 @@
         "Module Name": "Week 11",
         "Position": -6,
         "Points": 43,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908687"
     },
     {
         "Name": "W20 _ActivityType_: Homework and Exam Information",
@@ -1781,7 +1436,8 @@
         "Module Name": "Week 11",
         "Position": -7,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908688"
     },
     {
         "Name": "W11 Quiz: The Unit III Exam",
@@ -1789,7 +1445,8 @@
         "Module Name": "Week 11",
         "Position": -8,
         "Points": 33,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908689"
     },
     {
         "Name": "W11 _ActivityType_: Collect and Describe the Data - Submission",
@@ -1797,31 +1454,8 @@
         "Module Name": "Week 11",
         "Position": -9,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 12,
-        "Module Name": "Week 11",
-        "Position": -10,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 12,
-        "Module Name": "Week 11",
-        "Position": -11,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 12,
-        "Module Name": "Week 11",
-        "Position": -12,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908690"
     },
     {
         "Name": "Lesson Notes (Do NOT Publish)-10",
@@ -1829,7 +1463,8 @@
         "Module Name": "Week 12",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908694"
     },
     {
         "Name": "W12 _ActivityType_: Overview",
@@ -1837,15 +1472,8 @@
         "Module Name": "Week 12",
         "Position": -2,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 21",
-        "ModulePosition": 13,
-        "Module Name": "Week 12",
-        "Position": -3,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908695"
     },
     {
         "Name": "W21 _ActivityType_: Individual Preparation",
@@ -1853,7 +1481,8 @@
         "Module Name": "Week 12",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908697"
     },
     {
         "Name": "W21 _ActivityType_: Group Meeting",
@@ -1861,7 +1490,8 @@
         "Module Name": "Week 12",
         "Position": -5,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908698"
     },
     {
         "Name": "W12 Quiz: Group Meeting",
@@ -1869,7 +1499,8 @@
         "Module Name": "Week 12",
         "Position": -6,
         "Points": 14,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908699"
     },
     {
         "Name": "W21 _ActivityType_: Group Collaboration Instructions",
@@ -1877,7 +1508,8 @@
         "Module Name": "Week 12",
         "Position": -7,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908700"
     },
     {
         "Name": "W12 Discussion: Group Collaboration",
@@ -1885,7 +1517,8 @@
         "Module Name": "Week 12",
         "Position": -8,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908701"
     },
     {
         "Name": "W21 _ActivityType_: Homework",
@@ -1893,7 +1526,8 @@
         "Module Name": "Week 12",
         "Position": -9,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908702"
     },
     {
         "Name": "W12 Quiz: Homework",
@@ -1901,7 +1535,8 @@
         "Module Name": "Week 12",
         "Position": -10,
         "Points": 9,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908703"
     },
     {
         "Name": "W12 _ActivityType_: Make Inference and Take Action - Instructions",
@@ -1909,15 +1544,8 @@
         "Module Name": "Week 12",
         "Position": -11,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 22: Simple Linear Regression",
-        "ModulePosition": 13,
-        "Module Name": "Week 12",
-        "Position": -12,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908704"
     },
     {
         "Name": "W22 _ActivityType_: Individual Preparation",
@@ -1925,7 +1553,8 @@
         "Module Name": "Week 12",
         "Position": -13,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908706"
     },
     {
         "Name": "W22 _ActivityType_: Group Meeting",
@@ -1933,7 +1562,8 @@
         "Module Name": "Week 12",
         "Position": -14,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908707"
     },
     {
         "Name": "W12 Quiz: Group Meeting",
@@ -1941,7 +1571,8 @@
         "Module Name": "Week 12",
         "Position": -15,
         "Points": 17,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908708"
     },
     {
         "Name": "W22 _ActivityType_: Group Collaboration Instructions",
@@ -1949,7 +1580,8 @@
         "Module Name": "Week 12",
         "Position": -16,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908709"
     },
     {
         "Name": "W12 Discussion: Group Collaboration",
@@ -1957,7 +1589,8 @@
         "Module Name": "Week 12",
         "Position": -17,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908710"
     },
     {
         "Name": "W22 _ActivityType_: Homework",
@@ -1965,7 +1598,8 @@
         "Module Name": "Week 12",
         "Position": -18,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908711"
     },
     {
         "Name": "W12 Quiz: Homework",
@@ -1973,31 +1607,8 @@
         "Module Name": "Week 12",
         "Position": -19,
         "Points": 10,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 13,
-        "Module Name": "Week 12",
-        "Position": -20,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 13,
-        "Module Name": "Week 12",
-        "Position": -21,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 13,
-        "Module Name": "Week 12",
-        "Position": -22,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908712"
     },
     {
         "Name": "Lesson Notes (Do NOT Publish)-11",
@@ -2005,7 +1616,8 @@
         "Module Name": "Week 13",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908716"
     },
     {
         "Name": "W13 _ActivityType_: Overview",
@@ -2013,15 +1625,8 @@
         "Module Name": "Week 13",
         "Position": -2,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 23: Inference for Bivariate Data",
-        "ModulePosition": 14,
-        "Module Name": "Week 13",
-        "Position": -3,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908717"
     },
     {
         "Name": "W23 _ActivityType_: Individual Preparation",
@@ -2029,7 +1634,8 @@
         "Module Name": "Week 13",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908719"
     },
     {
         "Name": "W23 _ActivityType_: Group Meeting",
@@ -2037,7 +1643,8 @@
         "Module Name": "Week 13",
         "Position": -5,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908720"
     },
     {
         "Name": "W13 Quiz: Group Meeting",
@@ -2045,7 +1652,8 @@
         "Module Name": "Week 13",
         "Position": -6,
         "Points": 18,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908721"
     },
     {
         "Name": "W23 _ActivityType_: Group Collaboration Instructions",
@@ -2053,7 +1661,8 @@
         "Module Name": "Week 13",
         "Position": -7,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908722"
     },
     {
         "Name": "W13 Discussion: Group Collaboration",
@@ -2061,7 +1670,8 @@
         "Module Name": "Week 13",
         "Position": -8,
         "Points": 10,
-        "Type": "Discussion"
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908723"
     },
     {
         "Name": "W23 _ActivityType_: Homework",
@@ -2069,7 +1679,8 @@
         "Module Name": "Week 13",
         "Position": -9,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908724"
     },
     {
         "Name": "W13 Quiz: Homework",
@@ -2077,7 +1688,8 @@
         "Module Name": "Week 13",
         "Position": -10,
         "Points": 14,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908725"
     },
     {
         "Name": "W13 _ActivityType_: PowerPoint Presentation - Instructions",
@@ -2085,15 +1697,8 @@
         "Module Name": "Week 13",
         "Position": -11,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Lesson 24",
-        "ModulePosition": 14,
-        "Module Name": "Week 13",
-        "Position": -12,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908726"
     },
     {
         "Name": "W24 _ActivityType_: Individual Preparation",
@@ -2101,7 +1706,8 @@
         "Module Name": "Week 13",
         "Position": -13,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908728"
     },
     {
         "Name": "W24 _ActivityType_: Group Meeting",
@@ -2109,7 +1715,8 @@
         "Module Name": "Week 13",
         "Position": -14,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908729"
     },
     {
         "Name": "W13 Quiz: Group Meeting",
@@ -2117,7 +1724,8 @@
         "Module Name": "Week 13",
         "Position": -15,
         "Points": 47,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908730"
     },
     {
         "Name": "W24 _ActivityType_: Homework and Exam Information",
@@ -2125,7 +1733,8 @@
         "Module Name": "Week 13",
         "Position": -16,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908731"
     },
     {
         "Name": "W13 Quiz: Course Survey - End of Semester",
@@ -2133,7 +1742,8 @@
         "Module Name": "Week 13",
         "Position": -17,
         "Points": 1,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908732"
     },
     {
         "Name": "W13 _ActivityType_: End of Course Evaluation",
@@ -2141,31 +1751,8 @@
         "Module Name": "Week 13",
         "Position": -18,
         "Points": 0,
-        "Type": "ExternalUrl"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 14,
-        "Module Name": "Week 13",
-        "Position": -19,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 14,
-        "Module Name": "Week 13",
-        "Position": -20,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 14,
-        "Module Name": "Week 13",
-        "Position": -21,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/16584/modules#module_149701"
     },
     {
         "Name": "Lesson Notes (Do NOT Publish)-12",
@@ -2173,7 +1760,8 @@
         "Module Name": "Week 14",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908737"
     },
     {
         "Name": "W14 _ActivityType_: Overview",
@@ -2181,15 +1769,8 @@
         "Module Name": "Week 14",
         "Position": -2,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "The Unit IV Exam",
-        "ModulePosition": 15,
-        "Module Name": "Week 14",
-        "Position": -3,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908738"
     },
     {
         "Name": "W25 _ActivityType_: Individual Preparation",
@@ -2197,7 +1778,8 @@
         "Module Name": "Week 14",
         "Position": -4,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908740"
     },
     {
         "Name": "W25 _ActivityType_: Group Meeting",
@@ -2205,7 +1787,8 @@
         "Module Name": "Week 14",
         "Position": -5,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908741"
     },
     {
         "Name": "W25 _ActivityType_: Homework",
@@ -2213,7 +1796,8 @@
         "Module Name": "Week 14",
         "Position": -6,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908742"
     },
     {
         "Name": "W14 Quiz: Knowledge Survey - End of Semester",
@@ -2221,7 +1805,8 @@
         "Module Name": "Week 14",
         "Position": -7,
         "Points": 1,
-        "Type": "Quiz"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908743"
     },
     {
         "Name": "W14 Quiz: The Unit IV Exam",
@@ -2229,31 +1814,8 @@
         "Module Name": "Week 14",
         "Position": -8,
         "Points": 40,
-        "Type": "Quiz"
-    },
-    {
-        "Name": "Beginning of Week",
-        "ModulePosition": 15,
-        "Module Name": "Week 14",
-        "Position": -9,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "Middle of Week",
-        "ModulePosition": 15,
-        "Module Name": "Week 14",
-        "Position": -10,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Week",
-        "ModulePosition": 15,
-        "Module Name": "Week 14",
-        "Position": -11,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908744"
     },
     {
         "Name": "W _ActivityType_: Final Project Overview",
@@ -2261,7 +1823,8 @@
         "Module Name": "Week ",
         "Position": -1,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908748"
     },
     {
         "Name": "W _ActivityType_: Evaluation - Instructions",
@@ -2269,15 +1832,8 @@
         "Module Name": "Week ",
         "Position": -2,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Supplemental Resources",
-        "ModulePosition": 17,
-        "Module Name": "Student Resources",
-        "Position": -1,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908749"
     },
     {
         "Name": "Academic Support Cener",
@@ -2285,7 +1841,8 @@
         "Module Name": "Student Resources",
         "Position": -2,
         "Points": 0,
-        "Type": "ExternalUrl"
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/16584/modules#module_149704"
     },
     {
         "Name": "Online Textbook (PDF)",
@@ -2293,7 +1850,8 @@
         "Module Name": "Student Resources",
         "Position": -3,
         "Points": 0,
-        "Type": "ExternalUrl"
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/16584/modules#module_149704"
     },
     {
         "Name": "Online Textbook",
@@ -2301,7 +1859,8 @@
         "Module Name": "Student Resources",
         "Position": -4,
         "Points": 0,
-        "Type": "ExternalUrl"
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/16584/modules#module_149704"
     },
     {
         "Name": "Lesson Powerpoints",
@@ -2309,7 +1868,8 @@
         "Module Name": "Student Resources",
         "Position": -5,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908754"
     },
     {
         "Name": "How To Use: Google Hangouts on Air",
@@ -2317,7 +1877,8 @@
         "Module Name": "Student Resources",
         "Position": -6,
         "Points": 0,
-        "Type": "ExternalUrl"
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/16584/modules#module_149704"
     },
     {
         "Name": "Statistics Methods Table and Flow Chart",
@@ -2325,7 +1886,8 @@
         "Module Name": "Student Resources",
         "Position": -7,
         "Points": 0,
-        "Type": "Page"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908756"
     },
     {
         "Name": "Optional",
@@ -2333,7 +1895,8 @@
         "Module Name": "Student Resources",
         "Position": -8,
         "Points": 0,
-        "Type": "File"
+        "Type": "File",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908757"
     },
     {
         "Name": "Student Help Guide: Getting Started with Zoom",
@@ -2341,7 +1904,8 @@
         "Module Name": "Student Resources",
         "Position": -9,
         "Points": 0,
-        "Type": "ExternalUrl"
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/16584/modules#module_149704"
     },
     {
         "Name": "Google Hangouts",
@@ -2349,15 +1913,8 @@
         "Module Name": "Student Resources",
         "Position": -10,
         "Points": 0,
-        "Type": "Page"
-    },
-    {
-        "Name": "Standard Resources",
-        "ModulePosition": 17,
-        "Module Name": "Student Resources",
-        "Position": -11,
-        "Points": 0,
-        "Type": "SubHeader"
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/16584/modules/items/908759"
     },
     {
         "Name": "University Policies",
@@ -2365,7 +1922,8 @@
         "Module Name": "Student Resources",
         "Position": -12,
         "Points": 0,
-        "Type": "ExternalUrl"
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/16584/modules#module_149704"
     },
     {
         "Name": "Online Support Center",
@@ -2373,7 +1931,8 @@
         "Module Name": "Student Resources",
         "Position": -13,
         "Points": 0,
-        "Type": "ExternalUrl"
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/16584/modules#module_149704"
     },
     {
         "Name": "Library Research Guides",
@@ -2381,7 +1940,8 @@
         "Module Name": "Student Resources",
         "Position": -14,
         "Points": 0,
-        "Type": "ExternalUrl"
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/16584/modules#module_149704"
     },
     {
         "Name": "Copyright & Source Information",
@@ -2389,6 +1949,7 @@
         "Module Name": "Student Resources",
         "Position": -15,
         "Points": 0,
-        "Type": "ExternalUrl"
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/16584/modules#module_149704"
     }
 ]
