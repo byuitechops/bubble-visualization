@@ -7,11 +7,14 @@ const {
 } = require('util');
 const asyncReduce = promisify(asyncLib.reduce);
 
+var courseid;
+
 /* Prompts the user for the course Id and calls the main function to run, passing that value */
 function retrieveInput() {
     prompt.start();
 
     prompt.get('CourseID', (err, result) => {
+        courseid = result.CourseID;
         runTool(result.CourseID);
     });
 }
@@ -31,7 +34,7 @@ async function retrieveModuleItems(courseId, moduleId) {
 /* Main function that runs the whole show */
 async function runTool(courseId) {
     let courseModules = [];
-    let excludeModule = ['Welcome', 'Instructor Resources', 'Resources']
+    let excludeModule = ['Welcome', 'Instructor Resources', 'Resources', 'Instructor Resources (Do NOT Publish)']
     let modules = await retrieveModules(courseId);
 
     /* Filters the modules to excluse the ones named in the excludeModule array */
@@ -58,20 +61,31 @@ async function runTool(courseId) {
                 moduleItem.moduleName = moduleIn.name;
                 moduleItem.modulePosition = moduleIn.position;
                 return moduleItem;
-            });
+            })
+
+            .filter(moduleItem => moduleItem.type !== "SubHeader")
 
         return acc.concat(moduleItems);
     });
 
+
+
     /* Creates the module item object with necessary properties */
     allItems = allItems.map(gradedItem => {
+        // var htmlUrl = gradedItem.html_url || 'none';
+        // var regex = /(?:\d{2,})?/;
+        // var courseid = regex.exec(htmlUrl);
+        // console.log(courseid);
+        // var moduleUrl = `https://byui.instructure.com/courses/${courseid}/modules#module_${gradedItem.module_id}`;
+
         return {
             Name: gradedItem.title,
             ModulePosition: gradedItem.modulePosition,
             'Module Name': gradedItem.moduleName,
             Position: gradedItem.position,
             Points: gradedItem.content_details.points_possible || 0,
-            Type: gradedItem.type
+            Type: gradedItem.type,
+            URL: gradedItem.type == 'ExternalUrl' ? `https://byui.instructure.com/courses/${courseid}/modules#module_${gradedItem.module_id}` : gradedItem.html_url
         }
     });
 
@@ -80,3 +94,6 @@ async function runTool(courseId) {
 }
 
 retrieveInput();
+
+//api\/v1\/courses\/\d+
+//\/(?![0-9]+)

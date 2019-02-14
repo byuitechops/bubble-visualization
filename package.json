@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/byuitechops/bubble-visualization.git"
   },
-  "author": "Emma Fisher, Sam McGrath",
+  "author": "Emma Fisher",
+  "contributors": [
+    "Sam McGrath"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/byuitechops/bubble-visualization/issues"
