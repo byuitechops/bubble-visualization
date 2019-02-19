@@ -6,6 +6,7 @@ const {
     promisify
 } = require('util');
 const asyncReduce = promisify(asyncLib.reduce);
+const json2csv = require('json2csv').parse;
 
 var courseid;
 
@@ -17,6 +18,11 @@ function retrieveInput() {
         courseid = result.CourseID;
         runTool(result.CourseID);
     });
+}
+
+/* Makes an API call to Canvas to get a course */
+async function retrieveCourse(courseId) {
+    return await canvas.get(`/api/v1/courses/${courseId}`);
 }
 
 /* Makes an API call to Canvas to get all modules in the course */
@@ -72,12 +78,6 @@ async function runTool(courseId) {
 
     /* Creates the module item object with necessary properties */
     allItems = allItems.map(gradedItem => {
-        // var htmlUrl = gradedItem.html_url || 'none';
-        // var regex = /(?:\d{2,})?/;
-        // var courseid = regex.exec(htmlUrl);
-        // console.log(courseid);
-        // var moduleUrl = `https://byui.instructure.com/courses/${courseid}/modules#module_${gradedItem.module_id}`;
-
         return {
             Name: gradedItem.title,
             ModulePosition: gradedItem.modulePosition,
@@ -89,11 +89,18 @@ async function runTool(courseId) {
         }
     });
 
-    /* Writes all the module item objects to a file */
-    fs.writeFileSync('./data.json', JSON.stringify(allItems, null, 4));
+    /* Calls to get course from Canvas (so we can retrieve the course name) */
+    let theCourse = await retrieveCourse(courseid);
+    var courseTitle = `${theCourse.course_code}-${theCourse.name}`;
+
+    /* Converts JSON to CSV */
+    var fields = ['Name', 'ModulePosition', 'Module Name', 'Position', 'Points', 'Type', 'URL'];
+    var csv = json2csv(allItems, fields);
+    /* Writes all data to a CSV file with the course name as the filename */
+    fs.writeFileSync(`./courseData/${courseTitle}.csv`, csv, 'utf8');
+
+    /* Writes all the module item objects to a file with the course name as the filename */
+    fs.writeFileSync(`./courseData/${courseTitle}.json`, JSON.stringify(allItems, null, 4));
 }
 
 retrieveInput();
-
-//api\/v1\/courses\/\d+
-//\/(?![0-9]+)

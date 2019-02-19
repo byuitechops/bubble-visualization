@@ -1,0 +1,767 @@
+<html>
+
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.3.0/d3.js"></script>
+    <script src="http://dimplejs.org/dist/dimple.v2.3.0.js"></script>
+    <!-- <script src="dimple2-3-0.js"></script> -->
+</head>
+
+<body>
+    <h1 style="font-family: sans-serif;">AUTO 125-Intro to Automotive Tech</h1>
+    <script type="text/javascript">
+        var data = [
+    {
+        "Name": "W01 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 3,
+        "Module Name": "Week 01: Course Introduction",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468830"
+    },
+    {
+        "Name": "W01 Orientation to Online Learning",
+        "ModulePosition": 3,
+        "Module Name": "Week 01: Course Introduction",
+        "Position": -2,
+        "Points": 0,
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/19396/modules#module_222711"
+    },
+    {
+        "Name": "W01 Introduction to AUTO 125",
+        "ModulePosition": 3,
+        "Module Name": "Week 01: Course Introduction",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468836"
+    },
+    {
+        "Name": "W01 Syllabus Quiz",
+        "ModulePosition": 3,
+        "Module Name": "Week 01: Course Introduction",
+        "Position": -4,
+        "Points": 6,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468840"
+    },
+    {
+        "Name": "W01 Introductions",
+        "ModulePosition": 3,
+        "Module Name": "Week 01: Course Introduction",
+        "Position": -5,
+        "Points": 10,
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468846"
+    },
+    {
+        "Name": "W01 Student Forum",
+        "ModulePosition": 3,
+        "Module Name": "Week 01: Course Introduction",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Discussion",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468850"
+    },
+    {
+        "Name": "W02 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 4,
+        "Module Name": "Week 02: Safety & Vehicle Identification",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468856"
+    },
+    {
+        "Name": "W02 Pre-Quiz",
+        "ModulePosition": 4,
+        "Module Name": "Week 02: Safety & Vehicle Identification",
+        "Position": -2,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468860"
+    },
+    {
+        "Name": "W02 Study",
+        "ModulePosition": 4,
+        "Module Name": "Week 02: Safety & Vehicle Identification",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468866"
+    },
+    {
+        "Name": "W02 Teaching Report",
+        "ModulePosition": 4,
+        "Module Name": "Week 02: Safety & Vehicle Identification",
+        "Position": -4,
+        "Points": 15,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468872"
+    },
+    {
+        "Name": "W02 Post-Quiz",
+        "ModulePosition": 4,
+        "Module Name": "Week 02: Safety & Vehicle Identification",
+        "Position": -5,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468878"
+    },
+    {
+        "Name": "W03 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 5,
+        "Module Name": "Week 03: Engines",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468888"
+    },
+    {
+        "Name": "W03 Pre-Quiz",
+        "ModulePosition": 5,
+        "Module Name": "Week 03: Engines",
+        "Position": -2,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468894"
+    },
+    {
+        "Name": "W03 Study",
+        "ModulePosition": 5,
+        "Module Name": "Week 03: Engines",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468896"
+    },
+    {
+        "Name": "W03 Teaching Report",
+        "ModulePosition": 5,
+        "Module Name": "Week 03: Engines",
+        "Position": -4,
+        "Points": 15,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468902"
+    },
+    {
+        "Name": "W03 Post-Quiz",
+        "ModulePosition": 5,
+        "Module Name": "Week 03: Engines",
+        "Position": -5,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468906"
+    },
+    {
+        "Name": "W04 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 6,
+        "Module Name": "Week 04: Lubrication & Cooling",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468920"
+    },
+    {
+        "Name": "W04 Pre-Quiz",
+        "ModulePosition": 6,
+        "Module Name": "Week 04: Lubrication & Cooling",
+        "Position": -2,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468928"
+    },
+    {
+        "Name": "W04 Study",
+        "ModulePosition": 6,
+        "Module Name": "Week 04: Lubrication & Cooling",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468936"
+    },
+    {
+        "Name": "W04 Teaching Report",
+        "ModulePosition": 6,
+        "Module Name": "Week 04: Lubrication & Cooling",
+        "Position": -4,
+        "Points": 15,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468938"
+    },
+    {
+        "Name": "W04 Post-Quiz",
+        "ModulePosition": 6,
+        "Module Name": "Week 04: Lubrication & Cooling",
+        "Position": -5,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468942"
+    },
+    {
+        "Name": "W05 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 7,
+        "Module Name": "Week 05: Automotive Careers",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468944"
+    },
+    {
+        "Name": "W05 Pre-Quiz",
+        "ModulePosition": 7,
+        "Module Name": "Week 05: Automotive Careers",
+        "Position": -2,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468950"
+    },
+    {
+        "Name": "W05 Study",
+        "ModulePosition": 7,
+        "Module Name": "Week 05: Automotive Careers",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468952"
+    },
+    {
+        "Name": "W05 Teaching Report",
+        "ModulePosition": 7,
+        "Module Name": "Week 05: Automotive Careers",
+        "Position": -4,
+        "Points": 15,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468954"
+    },
+    {
+        "Name": "W05 Post-Quiz",
+        "ModulePosition": 7,
+        "Module Name": "Week 05: Automotive Careers",
+        "Position": -5,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468958"
+    },
+    {
+        "Name": "W05 Mid-Semester Instructor Feedback",
+        "ModulePosition": 7,
+        "Module Name": "Week 05: Automotive Careers",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468960"
+    },
+    {
+        "Name": "W06 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 8,
+        "Module Name": "Week 06: Electrical & Fuel Systems",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468964"
+    },
+    {
+        "Name": "W06 Pre-Quiz",
+        "ModulePosition": 8,
+        "Module Name": "Week 06: Electrical & Fuel Systems",
+        "Position": -2,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468966"
+    },
+    {
+        "Name": "W06 Study",
+        "ModulePosition": 8,
+        "Module Name": "Week 06: Electrical & Fuel Systems",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468968"
+    },
+    {
+        "Name": "W06 Teaching Report",
+        "ModulePosition": 8,
+        "Module Name": "Week 06: Electrical & Fuel Systems",
+        "Position": -4,
+        "Points": 15,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468972"
+    },
+    {
+        "Name": "W06 Post-Quiz",
+        "ModulePosition": 8,
+        "Module Name": "Week 06: Electrical & Fuel Systems",
+        "Position": -5,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468976"
+    },
+    {
+        "Name": "W07 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 9,
+        "Module Name": "Week 07: Drivetrains",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468984"
+    },
+    {
+        "Name": "W07 Pre-Quiz",
+        "ModulePosition": 9,
+        "Module Name": "Week 07: Drivetrains",
+        "Position": -2,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468990"
+    },
+    {
+        "Name": "W07 Study",
+        "ModulePosition": 9,
+        "Module Name": "Week 07: Drivetrains",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1468996"
+    },
+    {
+        "Name": "W07 Teaching Report",
+        "ModulePosition": 9,
+        "Module Name": "Week 07: Drivetrains",
+        "Position": -4,
+        "Points": 15,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469000"
+    },
+    {
+        "Name": "W07 Post-Quiz",
+        "ModulePosition": 9,
+        "Module Name": "Week 07: Drivetrains",
+        "Position": -5,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469004"
+    },
+    {
+        "Name": "W08 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 10,
+        "Module Name": "Week 08: Electricity",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469012"
+    },
+    {
+        "Name": "W08 Pre-Quiz",
+        "ModulePosition": 10,
+        "Module Name": "Week 08: Electricity",
+        "Position": -2,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469018"
+    },
+    {
+        "Name": "W08 Study",
+        "ModulePosition": 10,
+        "Module Name": "Week 08: Electricity",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469020"
+    },
+    {
+        "Name": "W08 Teaching Report",
+        "ModulePosition": 10,
+        "Module Name": "Week 08: Electricity",
+        "Position": -4,
+        "Points": 15,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469024"
+    },
+    {
+        "Name": "W08 Post-Quiz",
+        "ModulePosition": 10,
+        "Module Name": "Week 08: Electricity",
+        "Position": -5,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469030"
+    },
+    {
+        "Name": "W09 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 11,
+        "Module Name": "Week 09: Braking & Suspension Systems",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469038"
+    },
+    {
+        "Name": "W09 Pre-Quiz",
+        "ModulePosition": 11,
+        "Module Name": "Week 09: Braking & Suspension Systems",
+        "Position": -2,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469042"
+    },
+    {
+        "Name": "W09 Study",
+        "ModulePosition": 11,
+        "Module Name": "Week 09: Braking & Suspension Systems",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469046"
+    },
+    {
+        "Name": "W09 Teaching Report",
+        "ModulePosition": 11,
+        "Module Name": "Week 09: Braking & Suspension Systems",
+        "Position": -4,
+        "Points": 15,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469050"
+    },
+    {
+        "Name": "W09 Post-Quiz",
+        "ModulePosition": 11,
+        "Module Name": "Week 09: Braking & Suspension Systems",
+        "Position": -5,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469054"
+    },
+    {
+        "Name": "W10 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 12,
+        "Module Name": "Week 10: Tires & Steering",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469062"
+    },
+    {
+        "Name": "W10 Pre-Quiz",
+        "ModulePosition": 12,
+        "Module Name": "Week 10: Tires & Steering",
+        "Position": -2,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469070"
+    },
+    {
+        "Name": "W10 Study",
+        "ModulePosition": 12,
+        "Module Name": "Week 10: Tires & Steering",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469072"
+    },
+    {
+        "Name": "W10 Teaching Report",
+        "ModulePosition": 12,
+        "Module Name": "Week 10: Tires & Steering",
+        "Position": -4,
+        "Points": 15,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469080"
+    },
+    {
+        "Name": "W10 Post-Quiz",
+        "ModulePosition": 12,
+        "Module Name": "Week 10: Tires & Steering",
+        "Position": -5,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469088"
+    },
+    {
+        "Name": "W11 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 13,
+        "Module Name": "Week 11: Buying, Selling, & Repair Facilities",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469096"
+    },
+    {
+        "Name": "W11 Pre-Quiz",
+        "ModulePosition": 13,
+        "Module Name": "Week 11: Buying, Selling, & Repair Facilities",
+        "Position": -2,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469100"
+    },
+    {
+        "Name": "W11 Study",
+        "ModulePosition": 13,
+        "Module Name": "Week 11: Buying, Selling, & Repair Facilities",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469106"
+    },
+    {
+        "Name": "W11 Teaching Report",
+        "ModulePosition": 13,
+        "Module Name": "Week 11: Buying, Selling, & Repair Facilities",
+        "Position": -4,
+        "Points": 15,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469110"
+    },
+    {
+        "Name": "W11 Post-Quiz",
+        "ModulePosition": 13,
+        "Module Name": "Week 11: Buying, Selling, & Repair Facilities",
+        "Position": -5,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469114"
+    },
+    {
+        "Name": "W12 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 14,
+        "Module Name": "Week 12: Fasteners & Tools",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469120"
+    },
+    {
+        "Name": "W12 Pre-Quiz",
+        "ModulePosition": 14,
+        "Module Name": "Week 12: Fasteners & Tools",
+        "Position": -2,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469126"
+    },
+    {
+        "Name": "W12 Study",
+        "ModulePosition": 14,
+        "Module Name": "Week 12: Fasteners & Tools",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469130"
+    },
+    {
+        "Name": "W12 Teaching Report",
+        "ModulePosition": 14,
+        "Module Name": "Week 12: Fasteners & Tools",
+        "Position": -4,
+        "Points": 15,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469136"
+    },
+    {
+        "Name": "W12 Post-Quiz",
+        "ModulePosition": 14,
+        "Module Name": "Week 12: Fasteners & Tools",
+        "Position": -5,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469140"
+    },
+    {
+        "Name": "W12 End-of-Semester Instructor Feedback",
+        "ModulePosition": 14,
+        "Module Name": "Week 12: Fasteners & Tools",
+        "Position": -6,
+        "Points": 0,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469144"
+    },
+    {
+        "Name": "W13 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 15,
+        "Module Name": "Week 13: Using Service Information",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469152"
+    },
+    {
+        "Name": "W13 Pre-Quiz",
+        "ModulePosition": 15,
+        "Module Name": "Week 13: Using Service Information",
+        "Position": -2,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469156"
+    },
+    {
+        "Name": "W13 Study",
+        "ModulePosition": 15,
+        "Module Name": "Week 13: Using Service Information",
+        "Position": -3,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469164"
+    },
+    {
+        "Name": "W13 Teaching Report",
+        "ModulePosition": 15,
+        "Module Name": "Week 13: Using Service Information",
+        "Position": -4,
+        "Points": 15,
+        "Type": "Assignment",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469168"
+    },
+    {
+        "Name": "W13 Post-Quiz",
+        "ModulePosition": 15,
+        "Module Name": "Week 13: Using Service Information",
+        "Position": -5,
+        "Points": 15,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469170"
+    },
+    {
+        "Name": "W13 End-of-Course Evaluation",
+        "ModulePosition": 15,
+        "Module Name": "Week 13: Using Service Information",
+        "Position": -6,
+        "Points": 0,
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/19396/modules#module_222761"
+    },
+    {
+        "Name": "W14 Teaching Notes (Do NOT Publish)",
+        "ModulePosition": 16,
+        "Module Name": "Week 14: Course Conclusion",
+        "Position": -1,
+        "Points": 0,
+        "Type": "Page",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469182"
+    },
+    {
+        "Name": "W14 Final Exam",
+        "ModulePosition": 16,
+        "Module Name": "Week 14: Course Conclusion",
+        "Position": -2,
+        "Points": 20,
+        "Type": "Quiz",
+        "URL": "https://byui.instructure.com/courses/19396/modules/items/1469186"
+    },
+    {
+        "Name": "Student Help Guide: Getting Started with Zoom",
+        "ModulePosition": 17,
+        "Module Name": "Additional Resources",
+        "Position": -2,
+        "Points": 0,
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/19396/modules#module_222767"
+    },
+    {
+        "Name": "University Policies",
+        "ModulePosition": 17,
+        "Module Name": "Additional Resources",
+        "Position": -4,
+        "Points": 0,
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/19396/modules#module_222767"
+    },
+    {
+        "Name": "Online Support Center",
+        "ModulePosition": 17,
+        "Module Name": "Additional Resources",
+        "Position": -5,
+        "Points": 0,
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/19396/modules#module_222767"
+    },
+    {
+        "Name": "Library Research Guides",
+        "ModulePosition": 17,
+        "Module Name": "Additional Resources",
+        "Position": -6,
+        "Points": 0,
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/19396/modules#module_222767"
+    },
+    {
+        "Name": "Academic Support Center",
+        "ModulePosition": 17,
+        "Module Name": "Additional Resources",
+        "Position": -7,
+        "Points": 0,
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/19396/modules#module_222767"
+    },
+    {
+        "Name": "Copyright and Source Information",
+        "ModulePosition": 17,
+        "Module Name": "Additional Resources",
+        "Position": -8,
+        "Points": 0,
+        "Type": "ExternalUrl",
+        "URL": "https://byui.instructure.com/courses/19396/modules#module_222767"
+    }
+];
+
+
+
+        var svg = dimple.newSvg("body", 1600, 800);
+        max = d3.max(data, d => d.Points);
+
+        var myChart = new dimple.chart(svg, data);
+
+        myChart.defaultColors = [
+            new dimple.color("#2ecc71", "#27ae60", 1), // green
+            new dimple.color("#3498db", "#2980b9", 1), // blue
+            new dimple.color("#e74c3c", "#c0392b", 1), // red
+            new dimple.color("#9b59b6", "#8e44ad", 1), // purple
+            new dimple.color("#e67e22", "#d35400", 1), // orange
+            new dimple.color("#f1c40f", "#f39c12", 1), // yellow
+            new dimple.color("#1abc9c", "#16a085", 1), // turquoise
+            new dimple.color("#95a5a6", "#7f8c8d", 1)  // gray
+        ];
+
+        var x = myChart.addCategoryAxis("x", "Module Name")
+
+        x.addOrderRule((a, b) => {
+            return a.ModulePosition[0] - b.ModulePosition[0]
+        });
+
+        var y = myChart.addCategoryAxis("y", "Position");
+        y.hidden = true;
+        var z = myChart.addMeasureAxis("z", "Points");
+        z.overrideMax = max * 1.25;
+        z.overrideMin = -5;
+
+        // var f = myChart.addCategoryAxis("f", "Name");
+
+        var series = myChart.addSeries(["Name", "Type"], dimple.plot.bubble);
+        var OurGetTooltipText = series.getTooltipText;
+
+        series.getTooltipText = e => {
+            var theText = OurGetTooltipText.call(series, e).filter(text => !text.includes("Position"));
+
+            return theText;
+        }
+
+        myChart.addLegend(240, 10, 330, 20, "right");
+
+        series.afterDraw = function (s, d, x, y) {
+            console.log(arguments);
+            console.log('S: ', s);
+            console.dir(s);
+            console.log('D: ', d);
+            console.log('X: ', x);
+            var width = 10;
+            s.addEventListener('click', function () {
+                window.open(data[x].URL, '_blank');
+            })
+        }
+
+        myChart.draw();
+    </script>
+</body>
+
+</html>

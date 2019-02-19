@@ -1,5 +1,5 @@
 {
-  "name": "bubble-visualization",
+  "name": "course-visualization",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/byuitechops/bubble-visualization.git"
+    "url": "git+https://github.com/byuitechops/course-visualization.git"
   },
   "author": "Emma Fisher",
   "contributors": [
@@ -17,9 +17,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/byuitechops/bubble-visualization/issues"
+    "url": "https://github.com/byuitechops/course-visualization/issues"
   },
-  "homepage": "https://github.com/byuitechops/bubble-visualization#readme",
+  "homepage": "https://github.com/byuitechops/course-visualization#readme",
   "dependencies": {
     "async": "^2.6.1",
     "canvas-api-wrapper": "^3.3.5",
@@ -27,7 +27,9 @@
     "d3plus": "^1.9.8",
     "fs": "0.0.1-security",
     "handlebars": "^4.1.0",
+    "json2csv": "^4.3.4",
     "moment": "^2.24.0",
+    "prompt": "^1.0.0",
     "util": "^0.11.1"
   }
 }

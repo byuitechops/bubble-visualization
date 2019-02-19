@@ -1,29 +1,26 @@
 var fs = require('fs'),
-    Handlebars = require('Handlebars');
+    Handlebars = require('Handlebars'),
+    moment = require('moment');
 
-var data = [{
-        "Name": "Standard Resources",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -1,
-        "Points": 0,
-        "Type": "SubHeader"
-    },
-    {
-        "Name": "End of Course Evaluation",
-        "ModulePosition": 1,
-        "Module Name": "Instructor Resources (Do NOT Publish)",
-        "Position": -2,
-        "Points": 0,
-        "Type": "ExternalUrl"
-    }
-];
+/* Filename to read in json data from (also appears as the course name in the bubble chart) */
+// TODO change this filename to the name of the json file (without the file ending)
+var fileName = 'AUTO 125-Intro to Automotive Tech';
 
+/* Reads in JSON data and parses it */
+var data = fs.readFileSync(`./courseData/${fileName}.json`, 'utf8');
+data = JSON.parse(data);
+
+/* Handlebars stuff */
 var templateFile = fs.readFileSync('template.handlebars', 'utf8');
 var template = Handlebars.compile(templateFile);
 
 var context = {
-    data: JSON.stringify(data, null, 4)
+    data: JSON.stringify(data, null, 4),
+    courseName: fileName
 };
 
-fs.writeFileSync("Html.html", template(context), 'utf8');
+/* Getting current date to add to filename */
+let time = moment().format('MM-DD-YY');
+
+/* Write template to a file with course code, name, and current date as the title */
+fs.writeFileSync(`./htmlFiles/${fileName} (${time}).html`, template(context), 'utf8');

@@ -7,8 +7,11 @@
 </head>
 
 <body>
+    <h1 style="font-family: sans-serif;">{{courseName}}</h1>
     <script type="text/javascript">
         var data = {{{ data }}};
+
+
 
         var svg = dimple.newSvg("body", 1600, 800);
         max = d3.max(data, d => d.Points);
@@ -50,6 +53,19 @@
         }
 
         myChart.addLegend(240, 10, 330, 20, "right");
+
+        series.afterDraw = function (s, d, x, y) {
+            console.log(arguments);
+            console.log('S: ', s);
+            console.dir(s);
+            console.log('D: ', d);
+            console.log('X: ', x);
+            var width = 10;
+            s.addEventListener('click', function () {
+                window.open(data[x].URL, '_blank');
+            })
+        }
+
         myChart.draw();
     </script>
 </body>
