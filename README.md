@@ -1,4 +1,4 @@
-# bubble-visualization
+# course-visualization
 
 ## Description 
 This tool allows users to visualize all course work (module items) in a canvas course on a bubble chart. Each bubble is clickable and links to the module item in canvas.
@@ -9,11 +9,11 @@ Standard Install
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/byuitechops/bubble-visualization.git
+    git clone https://github.com/byuitechops/course-visualization.git
     ```
 1. Step into the folder that was just created 
     ```bash
-    cd ./bubble-visualization
+    cd ./course-visualization
     ```
 1. To install dependancies, run:
     ```bash
