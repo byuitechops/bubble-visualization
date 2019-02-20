@@ -1,38 +1,48 @@
 # course-visualization
 
 ## Description 
-This tool allows users to visualize all course work (module items) in a canvas course on a bubble chart. Each bubble is clickable and links to the module item in canvas.
+This tool allows the user to see a visualization of all course work (module items) found in a Canvas Course. This visualization is completed through a bubble chart. Each bubble is clickable and leads the user to the Module Item in Canvas.
 
 ## How to Install
 
-Standard Install
+To install the `course-visualization` program, simply execute:
 
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/byuitechops/course-visualization.git
-    ```
-1. Step into the folder that was just created 
-    ```bash
-    cd ./course-visualization
-    ```
-1. To install dependancies, run:
-    ```bash
-    npm i
-    ```
+```sh
+# Clone the repository
+$ git clone https://github.com/byuitechops/course-visualization.git
+
+# Step into the folder that was just created as a result of the clone
+$ cd ./course-visualization
+
+# Install needed dependencies.
+$ npm i
+```
+
+```sh
+# Canvas requires a Canvas API token and we grab (will throw error if not there) it from the environment variables.
+
+# Powershell
+$ $env:CANVAS_API_TOKEN="${INSERT YOUR CANVAS API TOKEN HERE}"
+
+# cmd
+$ set CANVAS_API_TOKEN=${INSERT YOUR CANVAS API TOKEN HERE}
+
+# Linux and Mac
+$ export CANVAS_API_TOKEN="${INSERT YOUR CANVAS API TOKEN HERE}"
+```
 
 ## How to Use
-1. If you want to update the data pulled from canvas, run:
-```bash
+If you want to update the course data pulled from Canvas, execute:
+```sh
 npm start
 ```
-This will write the data to a file in the courseData folder, and the name will be the course code and name of the course.
+This will write the data to a file in the `courseData` folder, and the name will be the course code and name of the course.
 
-2. To generate the HTML file that contains the course visualization bubble chart, first go into the makeFile.js file and update the filename with whatever JSON data file you are trying to display. Then, run:
-```bash
-node makeFile.js
+To generate the HTML file that contains the course visualization bubble chart, execute:
+```sh
+npm run make
 ```
-This file will be within the htmlFiles folder, and named with the course code and name as well as the date it was generated.
 
-The newly generated HTML file can now be viewed using a live server, or as any other HTML file may be used.
+This will go through every JSON file found in `courseData` folder and create a HTML file for a JSON file found. It will then create a HTML file that contains the bubble chart for that course. The file is generated as the following (assuming CS 124 as the course): `CS 124-Intro to Software Development (2-20-19)`.
 
-Enjoy the bubbles!
+You can then open the HTML file in any browser of your choosing (Internet Explorer users beware!).
