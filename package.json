@@ -4,8 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js",
-    "make": "node makeFile.js",
+    "start": "node ./src/main.js",
+    "make": "node ./src/makeFile.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

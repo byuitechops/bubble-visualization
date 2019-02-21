@@ -20,7 +20,7 @@ const Handlebars = require('Handlebars');
         let data = JSON.parse(fs.readFileSync(`./courseData/${fileName}`, 'utf8'));
 
         // Handlebars stuff
-        let templateFile = fs.readFileSync('newTemplate.handlebars', 'utf8');
+        let templateFile = fs.readFileSync('./src/newTemplate.handlebars', 'utf8');
         let template = Handlebars.compile(templateFile);
 
         let context = {
